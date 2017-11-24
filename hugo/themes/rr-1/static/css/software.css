@@ -10,43 +10,43 @@ html {
 /********************** Font | Family **********************/
 
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
-	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
 	font-weight: 400;
 }
 #menu>ul>li>a, .action_button, #overlay-menu ul li a {
-	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
 	font-weight: 400;
 }
 #Subheader .title {
-	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
 	font-weight: 400;
 }
 h1, .text-logo #logo {
-	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
 	font-weight: 400;
 }
 h2 {
-	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
 	font-weight: 400;
 }
 h3 {
-	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
 	font-weight: 400;
 }
 h4 {
-	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
 	font-weight: 400;
 }
 h5 {
-	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
 	font-weight: 700;
 }
 h6 {
-	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
 	font-weight: 400;
 }
 blockquote {
-	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
 }
 
 /********************** Font | Size **********************/
@@ -1236,7 +1236,4 @@ p.flv_align_right, div.flv_align_right {
 }
 .flv_float_right, div.flv_float_right {
 	float: right;
-}
-#features .list_item .list_right h4{
-	color: #03A89E;
 }
