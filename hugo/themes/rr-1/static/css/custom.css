@@ -42,6 +42,22 @@ ul.footer_links {
   padding: 20px 0;
 }
 
-.color_dark_black {
+h4.color_dark_black{
   color: #303030;
+}
+
+.pricing_style .plan-header .price sup.currency {
+  font-size: 28px;
+  line-height: 28px;
+}
+
+.pricing_style .plan-header .price > span {
+  font-size: 60px;
+  line-height: 1;
+}
+
+#Top_bar .menu>li>a {
+  color: #03A89E;
+  font-size: 16px;
+  font-weight: normal;
 }
