@@ -10,43 +10,43 @@ html {
 /********************** Font | Family **********************/
 
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
-	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
+	font-family:  Roboto, sans-serif, Arial, Tahoma;
 	font-weight: 400;
 }
 #menu>ul>li>a, .action_button, #overlay-menu ul li a {
-	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
+	font-family:  Roboto, sans-serif, Arial, Tahoma;
 	font-weight: 400;
 }
 #Subheader .title {
-	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
+	font-family:  Roboto, sans-serif, Arial, Tahoma;
 	font-weight: 400;
 }
 h1, .text-logo #logo {
-	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
-	font-weight: 300;
+	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-weight: 400;
 }
 h2 {
-	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
-	font-weight: 300;
+	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-weight: 400;
 }
 h3 {
-	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
-	font-weight: 300;
+	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-weight: 400;
 }
 h4 {
-	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
-	font-weight: 300;
+	font-family:  Roboto, sans-serif, Arial, Tahoma;
+	font-weight: 400;
 }
 h5 {
-	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
+	font-family:  Roboto, sans-serif, Arial, Tahoma;
 	font-weight: 700;
 }
 h6 {
-	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
+	font-family:  Roboto, sans-serif, Arial, Tahoma;
 	font-weight: 400;
 }
 blockquote {
-	font-family: "Source Sans Pro", Arial, Tahoma, sans-serif;
+	font-family:  Roboto, sans-serif, Arial, Tahoma;
 }
 
 /********************** Font | Size **********************/
@@ -440,10 +440,10 @@ a:hover {
 /* Selections */
 
 *::-moz-selection {
-	background-color: #1dc6bc;
+	background-color: #03A89E;
 }
 *::selection {
-	background-color: #1dc6bc;
+	background-color: #03A89E;
 }
 
 /* Grey */
@@ -917,7 +917,8 @@ ul.list_check li, li.list_check {
 	background: url(../images/list_check.png) no-repeat scroll 20px 5px
 }
 .list_item .list_right .desc {
-	color: #adaeb3
+	color: #303030;
+	font-size: 16px;
 }
 blockquote {
 	background: none;
@@ -1235,4 +1236,7 @@ p.flv_align_right, div.flv_align_right {
 }
 .flv_float_right, div.flv_float_right {
 	float: right;
+}
+#features .list_item .list_right h4{
+	color: #03A89E;
 }

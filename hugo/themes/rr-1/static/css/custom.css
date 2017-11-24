@@ -1,0 +1,43 @@
+.f16 {
+  font-size: 16px;
+  font-weight: normal;
+  color: #303030;
+}
+
+html body .c_brand {
+  color: #03A89E;
+}
+
+html body .list_item .list_right .quote {
+  font-size: 18px;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.text-right {
+  text-align: right;
+}
+
+#Footer a {
+  color: white;
+}
+
+#Footer a:hover {
+  color: black;
+}
+
+ul.footer_links {
+  margin: 0;
+  font-size: 14px;
+}
+
+
+#Footer .footer_copy {
+  background-color: #017e77;
+  color: white;
+}
+
+.footer-copy-center #Footer .footer_copy .copyright {
+  margin: 0;
+  padding: 20px 0;
+}
