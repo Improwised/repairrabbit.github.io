@@ -428,15 +428,17 @@ ul.footer_links li {
 
 #sib_embed_signup .mandatory-email .message_area,
 #sib_embed_signup .sib-container .message_area{
+  right: 15px;
   bottom: 15px;
+  display: flex;
   padding: 15px;
-  position: absolute;
   text-align: left;
+  margin-left: 15px;
+  position: absolute;
   z-index: 100000000;
   border-radius: 20px;
-  display: flex;
-  flex-direction: row-reverse;
   align-items: center;
+  flex-direction: row-reverse;
 }
 
 #sib_embed_signup .message_area button {
