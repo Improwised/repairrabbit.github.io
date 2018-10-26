@@ -13,7 +13,7 @@ categories: []
 
 Mismanagement, less organized processes, lack of planning etc, together lead to many disadvantages. Sometimes due to mismanagement organization has to suffer through major revenue loss. And in today's competitive market, companies cannot afford revenue loses. Thus, its quite necassary to work according to road maps and acheivable plans.
 
-## As We disscussed previously its time to know its effects.
+## As we disscussed about <a href="/blog/mismanagement-in-a-repair-business-and-its-causes" target="_blank">mismanagement in a repair business</a> previously, its time to know its effects.
 
 ### Reduced Productivity 
 
