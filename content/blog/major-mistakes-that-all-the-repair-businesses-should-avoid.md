@@ -37,7 +37,7 @@ Sometimes, due to high workload, it becomes difficult to complete the repairs on
 
 Even if you accept all the repair requests, you will eventually feel that you have overburdened your technicians, underestimated the time required for the completion of the repair, and possibly customers have been given the deadline that was too soon. This will result in to disastrous results.
 
-Thus, You need to pay attention to inventory and providing 
+Thus, You need to pay attention to inventory and providing repairs on time as it affects your business negatively.
 
 ___RepairRabbit For Your Repair business___
 
