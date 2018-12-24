@@ -3,7 +3,7 @@ title: "The Best Management Software for Repair Businesses"
 date: 2018-12-21T10:40:30+05:30
 draft: false
 auther: "RepairRabbit"
-image: "/images/logo-with-letters.png"
+image: "/images/blogs/the-best-management-software-for-repair-businesses-min.jpg"
 tags: []
 categories: []
 ---
