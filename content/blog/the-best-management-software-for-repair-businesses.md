@@ -18,8 +18,7 @@ Running a repair business is not at simple as it seems. You have to manage emplo
 
 There are many benefits of using a repair business software. You can manage your stores effectively. With the help of its features you can assign tasks to the employees. You can check the status of appointments and provide it to your customers and much more!
 
-Using A Repair 
-
+## Core Advantages
 
 ### Time Saving Processes
 
