@@ -12,7 +12,7 @@ categories: []
 
 These days, there are many repair businesses in the market. Everyone wants to turn their business in to a brand. Well, every business can't do this. Let's assume, you've invested a huge amount of capital and started a repair businesses providing repair services of different appliances, vehicles, phones and other electronic products. And you're getting good business at the initial stage. But, after experiencing your services, no one comes back for your assistance! Disaster right? This happens when mismanagement occurs and due to that you're not able to provide the best service.
 
-Running a repair business is not at simple as it seems. You have to manage employees, inventory, customer data, appointments and lot more things!
+Running a repair business is not as simple as it seems. You have to manage employees, inventory, customer data, appointments and lot more things!
 
 ## How Will A Repair Business Software Help You?
 
