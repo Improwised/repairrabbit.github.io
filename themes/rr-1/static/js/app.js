@@ -94,3 +94,6 @@ $( "#getInTouch" ).submit(function( event ) {
     }
   });
 });
+
+// set current year
+$( "#cYear" ).html(new Date().getFullYear());
