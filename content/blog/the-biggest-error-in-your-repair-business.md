@@ -17,7 +17,8 @@ So, lets get started. There are lots of repair businesses in the market who're c
 
 I think you've heard this before - "Stop chasing the money and start chasing the passion" Now, the reader must be thinking, Ahh rubbish! I can't relate it with my repair business!
 
-Let me tell you why I mentioned this. Sometimes a business owner gets confused between quality and quantity. There will be phase in your business career where you'll find losts of projects, customers and you'll be confused that whether to accept them or to reject! Ultimately, you'll choose quantity. In spite of having good amount of resources and a strong business base. You know what? this will hurdle your growth. Understand, people need quality services and if you're not able to provide them best in class repairing services, you're gone!
+Let me tell you why I mentioned this. Sometimes a business owner gets confused between quality and quantity. 
+There will be a phase in your business career where you'll find losts of projects, customers and you'll be confused that whether to accept them or to reject! Ultimately, you'll choose quantity. In spite of having good amount of resources and a strong business base. You know what? this will hurdle your growth. Understand, people need quality services and if you're not able to provide them best in class repairing services, you're gone!
 
 Now let's get a clear idea about the mistake that you make in your repair business!
 
@@ -30,6 +31,8 @@ Yes, this is the biggest error. Seems simple right? For sure, the error is compl
 People are in search of such a service provider who can make them happy with the best in quality repair services at a reasonable price. Ask yourself do you provide quality service to each and every customer you work for. Pay attention I said, TO EACH AND EVERY CUSTOMER. You definitely don't if yes, you're doing great, keep it up!
 
 Sometimes you are not able to serve the best because of lack of organization and improper. Imagine, you've a long list of clients waiting their phones, laptops or any electronic devices to get repaired and your employees are not assigned by the tasks properly. Everyone in the work place is working on different devices everyone is passionate about the work. Your manager is busy with a pen and papers around. In spite of this you can't retain the customer. You are working hard but not smart!
+
+### Here Are The 2 Simple Steps To Be Followed
 
 ___You need to have a proper organized system to complete and provide the work on time.___ 
 
