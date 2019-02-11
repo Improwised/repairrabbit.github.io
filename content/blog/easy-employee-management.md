@@ -12,9 +12,9 @@ categories: ["Software", "Repair Business", "Web Application"]
 
 <br>
 
-It's quite difficult to keep records of your employees working in multiple stores. There are too many regulations and numbers to keep track of. RepairRabbit will help you to reduce the paper work and maintain data of employees of multiple stores at a place.  
+It's quite difficult to keep records of your employees working in multiple stores. There are too many regulations and numbers to keep track of. RepairRabbit will help you to reduce the paperwork and maintain data of employees of multiple stores at a place.  
 
-Want keep record of repairs done by an employee? RepairRabbit will make it possible for you. Assign work to your employees and check work done by them accordingly. Keep contact, residential and other details of all your employees at a place. Assign different privileges to the employees of multiple stores. Get employee's status according to their availability. 
+Want to keep a record of repairs done by an employee? RepairRabbit will make it possible for you. Assign work to your employees and check work done by them accordingly. Keep contact details, residential details, and other details of all your employees in one place. Assign different privileges to the employees of multiple stores. Get employee's status according to their availability. 
 
 ## Advantages Of Employee Management system.
 
@@ -27,7 +27,8 @@ The first and the foremost benefit of having an employee management system in pl
 Organizations that track employee performance and productivity can identify high-performing individuals or teams, and those that could use a boost. 
 
 ### Real-Time Feedback
-Insights pulled from an annual performance management aren’t presented in real time, hindering your ability to make immediate strategy adjustments when issues or concerns arise.
+
+Insights pulled from annual performance management aren’t presented in real time, hindering your ability to make immediate strategy adjustments when issues or concerns arise.
 
 ### Increased Goal Visibility
 
