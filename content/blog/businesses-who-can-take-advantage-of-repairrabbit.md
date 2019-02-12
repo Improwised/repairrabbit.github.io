@@ -1,5 +1,5 @@
 ---
-title: "Businesses Who Can Take Advantage of RepairRabbit Software"
+title: "Businesses Who Can Take Advantage Of RepairRabbit Software"
 date: 2018-06-26T17:33:58+05:30
 draft: false
 auther: "Tapan"
@@ -15,8 +15,8 @@ categories: []
 
 ## List of business who can take advantage of RepairRabbit software
 
-* **Phones** repair business 
-* **Laptops** repair business
+* **Phone** repair business 
+* **Laptop** repair business
 * **Accessories** repair business
 * **Electronic devices** repair business
 * **Auto/Vehicle** repair business
@@ -27,7 +27,7 @@ categories: []
 * **Musical instrument** repair business
 * **General** repair business
 
-all kind of repair business can take advantage for RepairRabbit Software and grow their business
+All kind of repair businesses can take advantage of RepairRabbit software and grow their business
 
 <a href="mailto:contact@repairrabbit.co?subject=Query of RepairRabbit" target="_blank">Contact us</a> for pricing & purchase information `or` try RepairRabbit <a href="https://demo.repairrabbit.co/admin" rel="noopener" target="_blank" title="RepairRabbit Demo">free</a>.
 
