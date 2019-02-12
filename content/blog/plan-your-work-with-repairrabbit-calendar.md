@@ -8,10 +8,10 @@ tags: []
 categories: []
 ---
 
-<img src="/images/blogs/plan-your-work-with-repairrabbit.jpg" alt="Plan Your Work With RepairRabbit Calendar" />
+<img src="/images/blogs/plan-your-work-with-repairrabbit.jpg" alt="Plan Your Work With RepairRabbit Calendar"/>
  
 <br>
-Sometimes it becomes difficult to manage work schedule properly as there are many appointments to look after. Avoid scrambles in your work schedule by executing it smoothly with RepairRabbit calendar. 
+Sometimes it becomes difficult to manage the work schedule properly as there are many appointments to look after. Avoid scrambles in your work schedule by executing it smoothly with the RepairRabbit calendar. 
 
 With RepairRabbit calendar its easy to plan work schedule for booked appointments. It also helps you to verify appointment status. Assign work to your employees with individual date and time. Organize and track important tasks.
 Checking employee's availability for task distribution becomes easy. As you have details about the employees who are on leave, you can distribute work accordingly to avoid delay in the work. 
@@ -25,7 +25,7 @@ Checking employee's availability for task distribution becomes easy. As you have
 
 3&nbsp;&nbsp;&nbsp;Check work done by an individual.
 
-4&nbsp;&nbsp;&nbsp;Get overview of appointments according to their status.
+4&nbsp;&nbsp;&nbsp;Get an overview of appointments according to their status.
 
 5&nbsp;&nbsp;&nbsp;Avoid errors like delay in work.
 

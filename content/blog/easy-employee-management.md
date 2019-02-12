@@ -16,7 +16,7 @@ It's quite difficult to keep records of your employees working in multiple store
 
 Want to keep a record of repairs done by an employee? RepairRabbit will make it possible for you. Assign work to your employees and check work done by them accordingly. Keep contact details, residential details, and other details of all your employees in one place. Assign different privileges to the employees of multiple stores. Get employee's status according to their availability. 
 
-## Advantages Of Employee Management system.
+## Advantages Of Employee Management system
 
 ### Optimizing workload and streamlining administrative tasks
 
@@ -34,7 +34,7 @@ Insights pulled from annual performance management aren’t presented in real ti
 
 Goals are always discussed during performance reviews, but without an effective tracking system, it can be difficult for employees and managers to measure progress against them. RepairRabbit will help employees and their supervisors to set and manage goals on-the-fly. Greater visibility into both team-based and organizational goals creates a culture of transparency.
 
-### Reduce the paperwork
+### Reduce The Paperwork
 
 An efficient employee management system will help the organization to keep records of the employees working in multiple stores. RepairRabbit helps you to check the availability of different employees. 
 

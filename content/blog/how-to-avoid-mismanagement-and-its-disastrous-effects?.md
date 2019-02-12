@@ -39,7 +39,7 @@ It's quite important to keep an eye on the revenue generated from different bran
 You can plan your work map according to the list of repairs you have. Some of the softwares have the appointment feature which can help you to see which of the repair is to be completed by keeping in priority. Easy inventory tracking gives you a clear idea about stock left in your repair shop. Thus you do not have to face a shortage of the products as you can fill your stock on time.
 
 
-RepairRabbit will help you in digitalizing your management and making it more effective and errorless. Easy to use interface allows you to provide appointment creation to your customers, providing them the status of their device etc. The system also allows you to supervise multiple stores, managing financial areas, inventory tracking, undertaking employee management and much more. 
+RepairRabbit will help you in digitalizing your management and making it more effective and errorless. Easy to use interface allows you to provide appointment creation to your customers, providing them the status of their device etc. The system also allows you to supervise multiple stores, managing financial areas, inventory tracking, undertaking employee management, and much more. 
 
 
 <br>

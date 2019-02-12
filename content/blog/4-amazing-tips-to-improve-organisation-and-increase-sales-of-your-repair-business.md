@@ -38,12 +38,12 @@ Now, this can be done by distributing work amongst the employees properly. With 
 
 Software with different features allows you to distribute work amongst your employees and check the status too. This helps you to find the errors and to resolve them quickly.
 
-___RepairRabbit For Your Repair business___
+___RepairRabbit For Your Repair Business___
 
 RepairRabbit will help you in digitalizing your management and making it more effective and errorless. Easy to use interface allows you to provide appointment creation to your customers, providing them the status of their device, etc. The system also allows you to supervise multiple stores, manage financial areas, inventory tracking, undertaking employee management, and much more.
 
 <br>
 
-<a href="mailto:contact@repairrabbit.co?subject=Query of RepairRabbit" target="_blank">Contact Us</a> for pricing & purchase information `or` try RepairRabbit <a href="https://demo.repairrabbit.co/admin" rel="noopener" target="_blank" title="RepairRabbit Demo">free</a>.
+<a href="mailto:contact@repairrabbit.co?subject=Query of RepairRabbit" target="_blank">Contact us</a> for pricing & purchase information `or` try RepairRabbit <a href="https://demo.repairrabbit.co/admin" rel="noopener" target="_blank" title="RepairRabbit Demo">free</a>.
 
 <br>

@@ -39,9 +39,9 @@ Data entry onto the computer with its formatted screens and built-in databases o
 Due to a huge amount of paperwork, it becomes difficult to work on it. Thus it causes a lot of stress to you and your employees working on data.
 Online management system allows you to keep all the data at a place. You can edit, add or delete the data when needed.
 
-___RepairRabbit For Your Repair business___
+___RepairRabbit For Your Repair Business___
 
-RepairRabbit will help you in digitalizing your management and making it more effective and errorless. Easy to use interface allows you to provide appointment creation to your customers, providing them the status of their device etc. The system also allows you to supervise multiple stores, managing financial areas, inventory tracking, undertaking employee management and much more.
+RepairRabbit will help you in digitalizing your management and making it more effective and errorless. Easy to use interface allows you to provide appointment creation to your customers, providing them the status of their device etc. The system also allows you to supervise multiple stores, managing financial areas, inventory tracking, undertaking employee management, and much more.
 
 <br>
 

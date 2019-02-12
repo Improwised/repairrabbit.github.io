@@ -56,9 +56,9 @@ ___Major Benefits___
 
 - You Can Gather Data For Your Business.
 
-___RepairRabbit For Your Repair business___
+___RepairRabbit For Your Repair Business___
 
-RepairRabbit will help you in digitalizing your management and making it more effective and errorless. Easy to use interface allows you to provide appointment creation to your customers, providing them the status of their device etc. The system also allows you to supervise multiple stores, managing financial areas, inventory tracking, undertaking employee management and much more.
+RepairRabbit will help you in digitalizing your management and making it more effective and errorless. Easy to use interface allows you to provide appointment creation to your customers, providing them the status of their device etc. The system also allows you to supervise multiple stores, managing financial areas, inventory tracking, undertaking employee management, and much more.
 
 <br>
 
