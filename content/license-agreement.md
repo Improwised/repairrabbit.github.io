@@ -1,74 +1,90 @@
 ---
 title: "license-agreement"
 date: 2018-01-18T17:54:39+05:30
-draft: true
+draft: false
 type: pages
 layout: default
 auther: ""
 image: "/images/default_blog_image.png"
 ---
 
-This Agreement administers the connection between the Buyer (hereinafter: Licensee) and Seller (Hereinafter: Licensor). This Agreement sets the terms, rights, confinements, and commitments on utilizing Repair Rabbit (hereinafter: The Software) made and claimed by Licensor. By introducing or utilizing the Software, you consent to be bound by the terms of this Agreement. 
+This End User License Agreement (the “Agreement”) is a binding legal agreement between you and RepairRabbit. (the “Author”). By installing or using RepairRabbit app (the “Software”), you agree to be bound by the terms of this Agreement. If you do not agree to the Agreement, do not download, install, or use the Software. Installation or use of the Software signifies that you have read, understood, and agreed to be bound by the Agreement.
 
-Permit Grant: Licensor thus concedes Licensee a Non-assignable and non-transferable and non-selective permit with the accompanying points of interest:
+#### Usage
 
-#### Usage:
+This Agreement grants a non-exclusive, non-transferable license to install and use the Software on a single Website. Additional Software licenses must be purchased in order to install and use the Software on additional Websites. Your client can access RepairRabbit app through client login only. You may not provide RepairRabbit app to others as a hosted solution or allow companies outside your organization to use the software.  The Author reserves the right to determine whether use of the Software qualifies under this Agreement. The Author owns all rights, title and interest to the Software (including all intellectual property rights) and reserves all rights to the Software that are not expressly granted in this Agreement.
 
-Licensee may utilize the Software on a single website. Additional Software licenses must be purchased in order to install and use the Software on additional websites. Licensee may change the Software to suit the Licensee's needs and specifications. However, may not exchange or resell the software.
+#### Software Modification
 
-#### Non Assignable & Non-Transferable:
+You may alter, modify, or extend the Software for your own use, or commission a third-party to perform modifications for you, but you may not resell (in any from either as self hosted or provide as a service i.e. PAAS / SAAS), redistribute or transfer the modified or derivative version without prior written consent from the Author. The Software may not be extracted and used in other programs without prior written consent from the Author.
 
-Licensee may not relegate or exchange his rights and obligations under this license.
+#### Backups
 
-#### Software Modification:
+You may make copies of the Software in any machine-readable form solely for back-up purposes, provided that you reproduce the Software in its original form and with all proprietary notices on the back-up copy. All rights to the Software not expressly granted herein are reserved by the Author.
 
-Licensee may alter the Software and make subordinate works in view of Software. This incorporates revising the Software's source code, altering it, coordinating it into a bigger work, or evacuating bits of Software, as long as no conveyance of the subordinate works is made. 
+<hr/>
 
-Licensee may not give the Software to others as a hosted solutions or permit outside organizations to utilize Software for any reason.
+### Display of Copyright Notices
 
-#### Term & Termination:
+All copyright and proprietary notices within the Software files must remain intact.
 
-The Term of this permit should be until ended. Licensor may end this Agreement, incorporating Licensee's permit for the situation where Licensee wound up ruined or generally went into any liquidation procedure or sent out The Software to any jurisdiction where licensor may not uphold his rights under this agreement in or if The licensee was in break of any of this current permit's terms and conditions and such breach was not cured, promptly upon notice or The licensee in rupture of any of the terms of statement 2 to this permit or Licensee generally went into any course of action which made Licensor  won't able to authorize his rights under this License.
+#### Restrictions
 
-#### Prices:
+You understand and agree that you shall only use the Software in a manner that complies with any and all applicable laws in the jurisdictions in which you use the Software. Your use shall be in accordance with applicable restrictions concerning privacy and intellectual property rights.
 
-The prices of all products are subject to change without notice.
-Upgrades, Updates, and Fixes. Licensor may provide Licensee, from time to time, with Upgrades, Updates or Fixes, as detailed herein and according to his sole discretion.
+You may not:
 
-Licensee hereby warrants to keep The Software up-to-date and install all relevant updates and fixes, and may, at his sole discretion, purchase upgrades, according to the rates set by Licensor. Licensor shall provide any update or Fix free of charge; however, nothing in this Agreement shall require Licensor to provide Updates or Fixes.
+*   Distribute derivative works based on the Software (the distribution of themes and other add-ons to the Software written using APIs and other programmatic interfaces published by the Author are allowed);
+*   Reproduce the Software except as described in this Agreement;
+*   Sell, assign, license, disclose, distribute, or otherwise transfer or make available the Software or its Source Code, in whole or in part, in any form to any third parties, except during the course of normal use by users of RepairRabbit app, as installed on your server, via browser or other API-enabled applications.
+*   Remove or alter any proprietary notices on the Software.
 
-#### Liability:
+THE SOFTWARE IS OFFERED ON AN “AS-IS” BASIS AND NO WARRANTY, EITHER EXPRESSED OR IMPLIED, IS GIVEN. THE AUTHOR EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. YOU ASSUME ALL RISK ASSOCIATED WITH THE QUALITY, PERFORMANCE, INSTALLATION AND USE OF THE SOFTWARE INCLUDING, BUT NOT LIMITED TO, THE RISKS OF PROGRAM ERRORS, DAMAGE TO EQUIPMENT, LOSS OF DATA OR SOFTWARE PROGRAMS, OR UNAVAILABILITY OR INTERRUPTION OF OPERATIONS. YOU ARE SOLELY RESPONSIBLE FOR DETERMINING THE APPROPRIATENESS OF USE THE SOFTWARE AND ASSUME ALL RISKS ASSOCIATED WITH ITS USE.
 
-To the extent permitted under Law, The Software is provided under an AS-IS basis. Licensor shall never, and without any limit, be liable for any damage, cost, expense or any other payment incurred by license as a result of Software's actions, failure, bugs and/or any other interaction between The Software and license's end-equipment, computers, other software or any 3rd party, end-equipment, computer or services. Moreover, Licensor shall never be liable for any defect in source code written by Licensee when relying on The Software or using The Software's source code.
+#### Term, Termination, and Modification.
 
-#### Data Policy:
+You may use the Software under this Agreement until either party terminates this Agreement as set forth in this paragraph. Either party may terminate the Agreement at any time, upon written notice to the other party. Upon termination, all licenses granted to you will terminate, and you will immediately uninstall and cease all use of the Software. The Sections entitled “No Warranty,” “Indemnification,” and “Limitation of Liability” will survive any termination of this Agreement.
 
-An information administration approach is a recorded arrangement of rules for guaranteeing the correct administration of an association's advanced data. It is totally private however in the event that any blunder shows up, In such cases, we may track or require your information to settle caused mistakes.
+The Author may modify the Software and this Agreement with notice to you either in email or by publishing content on the Software website, including but not limited to changing the functionality or appearance of the Software, and such modification will become binding on you unless you terminate this Agreement.
 
-#### Intellectual Property:
+#### Indemnification.
 
-Licensor hereby warrants that The Software does not violate or infringe any 3rd party claims in regards to intellectual property, patents and/or trademarks and that to the best of its knowledge no legal action has been taken against it for any infringement or violation of any 3rd party intellectual property rights.
+By accepting the Agreement, you agree to indemnify and otherwise hold harmless the Author, its officers, employers, agents, subsidiaries, affiliates and other partners from any direct, indirect, incidental, special, consequential or exemplary damages arising out of, relating to, or resulting from your use of the Software or any other matter relating to the Software.
 
-#### No-Warranty:
+#### Limitation of Liability.
 
-The Software is provided without any warranty; Licensor hereby disclaims any warranty that The Software shall be error free, without defects or code which may cause damage to Licensee's computers or to Licensee, and that Software shall be functional. Licensee shall be solely liable to any damage, defect or loss incurred as a result of operating software and undertake the risks contained in running The Software on License's Server[s] and Website[s].
+**YOU EXPRESSLY UNDERSTAND AND AGREE THAT THE AUTHOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU. IN NO EVENT WILL THE AUTHORS’S TOTAL CUMULATIVE DAMAGES EXCEED THE FEES YOU PAID TO THE AUTHOR UNDER THIS AGREEMENT IN THE MOST RECENT TWELVE-MONTH PERIOD.**
 
-#### Prior Inspection: 
+#### Refund Policy
 
-Licensee hereby states that he inspected The Software thoroughly and found it satisfactory and adequate to his needs, that it does not interfere with his regular operation and that it does meet the standards and scope of his computer systems and architecture. Licensee found that The Software interacts with his development, website and server environment and that it does not infringe any of End User License Agreement of any software Licensee may use in performing his services. Licensee hereby waives any claims regarding The Software's incompatibility, performance, results and features, and warrants that he inspected the The Software.
+Since the Author is offering non-tangible irrevocable, digital goods we do not issue refunds after purchase is made, which you are responsible for understanding upon purchasing the Software. No refunds will be issued, guaranteed or promised. Once we issue a downloadable file, there is no way for us to recall, or rescind a digital item that has already been issued to a customer.
 
-#### Refund Policy: 
+#### Price Changes
 
-As Licensor is offering non-tangible digital goods, Licensor does not generally issue refunds after a purchase has been made. Refunds will be granted at the sole discretion of owner of Repair Rabbit. Refunds do not apply to product upgrades or renewals. No refunds will be given from the initial purchase. By purchasing The Software, Licensee agrees to the terms of the Refund Policy.
+The Author reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, a product (or any part thereof) with or without notice. Prices of all products are subject to change without notice.
 
-#### Indemnification: 
+#### Delivery
 
-Licensee hereby warrants to hold Licensor harmless and indemnify Licensor for any lawsuit brought against it in regards to Licensee's use of The Software in means that violate, breach or otherwise circumvent this license, Licensor's intellectual property rights or Licensor's title in The Software. Licensor shall promptly notify Licensee in case of such legal action and request Licensee's consent prior to any settlement in relation to such lawsuit or claim.
+After the Author has successfully received your payment, your Software purchase will become activated and you will be able to install the Software. If you encounter any issues please email [contact@repairrabbit.co](mailto:contact@repairrabbit.co) Please Note: Invoices will be available in the PDF format from your dashboard.
 
-#### Governing Law, Jurisdiction: 
+### Definitions
 
-Licensee hereby agrees not to initiate class-action lawsuits against Licensor in relation to this license and to compensate Licensor for any legal fees, cost or attorney fees should any claim brought by Licensee against Licensor be denied, in part or in full.
+#### Definition of Website
 
-#### Display of Copyright Notices: 
+A “Website” is defined as a single domain including sub-domains that operate as a single entity. What constitutes a single entity shall be at the sole discretion of the Author.
 
-All copyright and proprietary notices within the Software must remain intact.
+#### Definition of Source Code
+
+The “Source Code” is defined as the contents of all HTML, CSS, JavaScript, and PHP files provided with the Software and includes all related image files and database schemas.
+
+#### Definition of an Update
+
+An “Update” of the Software is defined as that which adds minor functionality enhancements or any bug fix to the current version or any new functionality added. This class of release is identified by the change of the revision to the right of the decimal point, i.e. X.Y.1 to X.Y.2
+
+The assignment to the category of Update or Upgrade shall be at the sole discretion of the Author.
+
+#### Definition of an Upgrade
+
+An “Upgrade” is a major release of the Software and is defined as that which incorporates major new features or enhancement that increase the core functionality of the software. This class of release is identified by the change of the revision to the left of the decimal point, i.e. 4.X.Y to 5.X.Y
+
+The assignment to the category of Update or Upgrade shall be at the sole discretion of the Author.
