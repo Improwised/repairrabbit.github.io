@@ -27,7 +27,7 @@ In the worst-case scenario, mismanagement can impact a business’ profitability
 
 Unsurprisingly, one of the biggest effects of mismanagement is high employee turnover. Whether it’s an employer driving staff away through weak management skills or employees choosing to pursue a career elsewhere because they believe they will have a better chance to excel, high turnover rates can reduce productivity. It can affect employee's productivity and morale negatively. It can impact a company’s reputation as an undesirable place to work. If employees' productivity gets affected negatively it can result in delay in the completion of work and ultimately it will lead to dissatisfied customers.
 
-### Impact On the company's reputation
+### Impact on the Company's Reputation
 
 When inadequate organization and lack of planning takes place, employees are not assigned work accordingly and it ultimately leads to delay in the completion of work. Thus, targets are not achieved it results in unpleasant customer services. If you're into a repair business, your customers will need to get their devices repaired as fast as possible but, if you make any kind of delay they will definitely not leave positive feedback and they'll not prefer or suggest you to any one of their contacts. This will leave a negative effect on the company's reputation. 
 

@@ -16,15 +16,15 @@ Even if you accept all the repair requests, you will eventually feel that you ha
 
 ## Let's see what are the disadvantages of bad scheduling.
 
-### Negative effect on the company's reputation. 
+### Negative effect on the company's reputation 
 
 Due to bad scheduling, there are high chances of delay in the repair work. Thus your customers will not satisfied with your work if their devices are not repaired on the given time. They will have a bad experience with your services and they'll surely not recommend anyone to visit you. It creates a negative impact on your customers and this will ultimately lead to a bad reputation in the market.
 
-### Dissatisfied employees.
+### Dissatisfied employees
 
 If there are many repairs to be done as you've accepted all the requests, you might not realize that it can cause overburden to the employees. They need sufficient time to complete the task. And if you overburden them, it may create a negative impact on the work culture.
 
-### Disorganised work schedule.
+### Disorganised work schedule
 
 If you don't have a list of appointments to work on, you'll suffer in organizing the work and less organized road map can lead to delay in work and this will result into bad customer services. Disorganized work schedule can exhaust you as you suffer from multiple errors due to lack of planning. 
 
@@ -32,7 +32,7 @@ Appointment Scheduling is a major problem in many repair businesses but nowadays
 
 ___RepairRabbit For Your Business___
 
-RepairRabbit will help you in digitalizing your management and making it more effective and errorless. Easy to use interface allows you to provide appointment creation to your customers, providing them the status of their device etc. The system also allows you to supervise multiple stores, managing financial areas, inventory tracking, undertaking employee management and much more.
+RepairRabbit will help you in digitalizing your management and making it more effective and errorless. Easy to use interface allows you to provide appointment creation to your customers, providing them the status of their device etc. The system also allows you to supervise multiple stores, managing financial areas, inventory tracking, undertaking employee management, and much more.
 
 
 <br>

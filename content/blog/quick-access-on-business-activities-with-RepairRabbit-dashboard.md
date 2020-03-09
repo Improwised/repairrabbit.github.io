@@ -11,15 +11,15 @@ categories: []
 <img src="/images/blogs/quick-access-on-business-activities-with-RepairRabbit-dashboard.jpg" alt="quick access on business activities with RepairRabbit dashboard" />
 
 
-Frustrated with lengthy software process?  Tired of following the same boring format ? Then there is a good news for you!! Repair rabbit offers easy to use shortcuts for every important task with just one click access to save your valuable time. 
+Frustrated with lengthy software processes?  Tired of following the same boring format? Then there is good news for you!! RepairRabbit offers easy to use shortcuts for every important task with just one click access to save your valuable time. 
 
-Book an appointment directly on just a click from dashboard. Repair ticket and invoice are the core components of every repair business and it is a lengthy & time consuming process as it includes every minute details. But RepairRabbit does not follows the same pattern as it has a shortcut feature on the dashboard for booking a ticket and creating an invoice. Thus, RepairRabbit dashboard makes this process more smoother and effortless. Add new customer, employee or store directly from the dashboard.
+Book an appointment directly on just a click from the dashboard. Repair ticket and invoice are the core components of every repair business and it is a lengthy & time-consuming process as it includes very minute details. But RepairRabbit does not follow the same pattern as it has a shortcut feature on the dashboard for booking a ticket and creating an invoice. Thus, RepairRabbit dashboard makes this process smooth and effortless. Add new customer, employee or store directly from the dashboard.
 
 <br>
 
 ### Shortcuts
 
-Dashboard shortcuts make process of tasks like adding employee's data, generating tickets, creating appointments, adding store details, generating invoice etc. easy as they can be handled directly from the dashboard. 
+Dashboard shortcuts make the process of tasks like adding employee's data, generating tickets, creating appointments, adding store details, generating an invoice, etc. easy as they can be handled directly from the dashboard. 
 
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/add_appointment_ticket_invoice_employee_customer_store.png)
 
@@ -27,15 +27,15 @@ Dashboard shortcuts make process of tasks like adding employee's data, generatin
 
 ### Identify the revenue generated of single or multiple stores
 
-Now you can check daily, weekly & monthly revenue generated. RepairRabit allows you to find out revenue of a particular date too. Select any of your store and get the exact revenue amount easily.
+Now you can check daily, weekly & monthly revenue generated. RepairRabbit allows you to find out revenue of a particular date too. Select any store and get the exact revenue amount easily.
 
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/find_revenue.png)
 
 <br>
 
-### Get total price of stock
+### Get the total price of stock
 
-Find total amount of stock of individual or all products available in your store.
+Find the total amount of stock of individual or all products available in your store.
 
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/total_price_of_stock.png)
 
@@ -43,7 +43,7 @@ Find total amount of stock of individual or all products available in your store
 
 ### Repairs done by the employees
 
-Want to identify number of repairs done by your employees? RepairRabbit Dashboard helps you to do so! Select date, store and employee and get the exact number of the repairs done by the employee.
+Want to identify the number of repairs done by your employees? RepairRabbit dashboard helps you to do so! Select a date, store, and employee and get the exact number of the repairs done by the employee.
 
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/repair_done_by_employee.png)
 
@@ -51,7 +51,7 @@ Want to identify number of repairs done by your employees? RepairRabbit Dashboar
 
 ### Appointments
 
-Quick look on the appointments of previous 5 days to next 4 days!
+A quick look at the appointments of the previous 5 days to the next 4 days!
 
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/appointments_of_5_days_to_next_4_days.png)
 
@@ -59,16 +59,16 @@ Quick look on the appointments of previous 5 days to next 4 days!
 
 ### Year To Date Appointments & Appointments of Previous Year
 
-Its quite essential to know that, appointments are confirmed or not. RepaitRabbit dashboard helps you to determine the same. Find out number of confirmed and unconfirmed appointments of the current year. Keep records of the previous year's appointments and check them when needed.
+Its quite essential to know that, appointments are confirmed or not. RepaitRabbit dashboard helps you to determine the same. Find out the number of confirmed and unconfirmed appointments of the current year. Keep records of the previous year's appointments and check them when needed.
 
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/appointment_status_year_to_date.png)
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/appointment_status_previous_yr.png)
 
 <br>
 
-### Year To Date Tickets & tickets of previous year
+### Year To Date Tickets & tickets of the previous year
 
-Repair tickets are the most important part of a repair business as you can track the progress of the repair from a particular repair ticket. Thats why RepairRabbit helps you to check year to date tickets and the record of the tickets generated in previous too.
+Repair tickets are the most important part of a repair business as you can track the progress of the repair from a particular repair ticket. That's why RepairRabbit helps you to check Year to Date tickets and the record of the tickets generated.
 
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/Tickets_previous_year.png)
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/Year_To_Date_Tickets.png)
@@ -77,8 +77,8 @@ Repair tickets are the most important part of a repair business as you can track
 
 ### Employee status
 
-To complete the repairs on time, it becomes very essential to divide the work between employees accordingly. and thus it's important to know employee's availability too.
-And the RepairRabbit is here to help! You can check availability of employees in the form of "Active" and "Inactive" status.
+To complete the repairs on time, it becomes very essential to divide the work between employees accordingly and thus, it's important to know employee's availability too.
+And RepairRabbit is here to help! You can check the availability of employees in the form of "Active" and "Inactive" status.
 
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/employee_status.png)
 
@@ -86,7 +86,7 @@ And the RepairRabbit is here to help! You can check availability of employees in
 
 ### Store status
 
-Business having multiple branches has to face difficulties in management due to lack of communication and coordination. RepairRabbit helps you to manage multiple stores at a single platform. And you can check the status of your stores too.
+Business having multiple branches face difficulties in management due to lack of communication and coordination. RepairRabbit helps you to manage multiple stores from a single platform. And you can check the status of your stores too.
 
 ![Add appointments tickets invoice employee customer store easily](/images/blogs/4/store_status.png)
 
