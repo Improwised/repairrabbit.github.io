@@ -534,6 +534,25 @@ a.bc-b-hover:hover {
   background-position: 95% bottom;
 }
 
+#pricing .price {
+  background-color: #ffc420;
+  box-shadow: 5px 5px 0px 0px #eee;
+  background-color: white;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+
+#pricing .price h3 {
+  font-size: 60px;
+  line-height: 1;
+  color: #9acd32;
+}
+
+#pricing .price span {
+  color: #909090;
+}
+
 /* pricing-box
 
 .pricing-box {
