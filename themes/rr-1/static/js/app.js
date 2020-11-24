@@ -41,7 +41,14 @@ $( document ).ready(function() {
   }
   // $(".heroUnit").css("min-height", $('.heroUnit .container').outerHeight() + 96 + 'px');
 });
+
 $(".navbar-custom li a").click(function(e) {
+  if($(this).attr('href').replace('/','')) {
+    $('html, body').animate({ scrollTop: $($(this).attr('href').replace('/','')).offset().top - 60}, 1000);
+  }
+});
+
+$(".go-to-pricing").click(function(e) {
   if($(this).attr('href').replace('/','')) {
     $('html, body').animate({ scrollTop: $($(this).attr('href').replace('/','')).offset().top - 60}, 1000);
   }
