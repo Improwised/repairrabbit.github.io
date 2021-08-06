@@ -8,7 +8,7 @@ tags: []
 categories: []
 ---
 
-<img src="/images/blogs/3-amazing-tips-to-improve-organisation-and-increase-sales-of-your-repair-business-min.jpg" />
+<img src="/images/blogs/3-amazing-tips-to-improve-organisation-and-increase-sales-of-your-repair-business-min.jpg" alt="3 Amazing Tips To Improve Organisation And Increase Sales Of Your Repair Business" />
 
 When it comes to running a repair business, it's quite necessary to give proper attention to each and every factor like appointments, customers' data, employees' data, tickets, etc. Thus it becomes difficult to organize the work properly. Sometimes stress leads to mismanagement and it ultimately causes revenue loss. Thus, it is quite essential to look after all the factors equally and manage them in one place. 
 

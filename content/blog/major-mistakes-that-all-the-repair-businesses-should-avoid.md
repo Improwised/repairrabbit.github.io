@@ -8,7 +8,7 @@ tags: []
 categories: []
 ---
 
-<img src="/images/blogs/major-mistakes-that-all-the-repair-businesses-should-avoid-min.jpg" />
+<img src="/images/blogs/major-mistakes-that-all-the-repair-businesses-should-avoid-min.jpg" alt="Major Mistakes That All The-Repair-Businesses Should Avoid" />
 
 When you’re into a repair business, there are lots of components and departments to supervise. For e.g. - Customer data, Employee Data, Financial accounts, Stock management, Appointments, Customer feedback section, and so on. And you cannot afford any major error in these areas.
 
