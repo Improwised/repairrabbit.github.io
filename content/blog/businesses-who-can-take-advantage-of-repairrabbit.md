@@ -8,7 +8,7 @@ tags: []
 categories: []
 ---
 
-<img src="/images/blogs/businesses-who-can-take-advantage-of-RepairRabbit.png" alt="businesses who can take advantage of RepairRabbit software" title="businesses who can take advantage of RepairRabbit software"/>
+<img src="/images/blogs/businesses-who-can-take-advantage-of-RepairRabbit.png" alt="Businesses Who Can Take Advantage of RepairRabbit Software" title="businesses who can take advantage of RepairRabbit software"/>
 
 <br>
 
