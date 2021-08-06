@@ -1,10 +1,10 @@
 {{ $baseUrl:= trim .Site.BaseURL "/" }}
 {{ $image := printf "%s%s" $baseUrl .Params.image }}
 
-<title>{{ .Title }} - {{.Site.Title}} - {{.Site.Params.tagLine}}</title>
+<title>{{ .Title }} - {{.Site.Title}}</title>
 
 <meta name="title" content ="{{ .Title }} - {{.Site.Title}} - {{.Site.Params.tagLine}}">
-<meta name="description" content="{{ .Summary }} - {{.Site.Title}} - {{.Site.Params.tagLine}}">
+<meta name="description" content="{{ .Summary }} - {{.Site.Title}}">
 <meta name="author" content="{{ .Params.auther }}">
 
 <meta property="og:url"           content="{{.Permalink}}" />

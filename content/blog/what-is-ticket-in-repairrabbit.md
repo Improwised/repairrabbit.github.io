@@ -10,7 +10,7 @@ sitemap:
   priority: 0.8
 ---
 
-<img src="/images/blogs/what-is-ticket-in-repairrabbit.png" alt="what Is ticket in RepairRabbit" />
+<img src="/images/blogs/what-is-ticket-in-repairrabbit.png" alt="What Is ticket in RepairRabbit"/>
 
 <br>
 

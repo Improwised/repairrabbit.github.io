@@ -8,7 +8,7 @@ tags: []
 categories: []
 ---
 
-<img src="/images/blogs/how-to-avoid-mismanagement-and-its-disastrous-effects.jpg" />
+<img src="/images/blogs/how-to-avoid-mismanagement-and-its-disastrous-effects.jpg" alt="How To Avoid Mismanagement And Its Disastrous Effects" />
 
 
 

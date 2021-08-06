@@ -8,7 +8,7 @@ tags: ["Business Management", "Employee Management", "Data Management", "Multipl
 categories: ["Software", "Repair Business", "Web Application"]
 ---
 
-<img src="/images/blogs/easy-employee-management.jpg" alt="easy employee management" />
+<img src="/images/blogs/easy-employee-management.jpg" alt="Easy Employee Management" />
 
 <br>
 
