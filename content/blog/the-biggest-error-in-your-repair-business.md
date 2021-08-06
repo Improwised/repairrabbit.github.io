@@ -8,7 +8,7 @@ tags: []
 categories: []
 ---
 
-<img src="/images/blogs/the-biggest-error-in-your-repair-business-min.jpg" />
+<img src="/images/blogs/the-biggest-error-in-your-repair-business-min.jpg" alt="The Biggest Error In Your Repair Business"/>
 
 
 In this article, we're going to talk about the biggest and the most dangerous error in your repair business. And you know what? you're totally unaware of it! 
