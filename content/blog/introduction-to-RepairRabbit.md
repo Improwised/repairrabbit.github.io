@@ -4,6 +4,7 @@ date: 2018-05-01T18:23:18+05:30
 draft: false
 auther: "Tapan"
 image: "/images/blogs/introduction-to-repairrabbit.jpg"
+image_alter: "Introduction to RepairRabbit"
 tags: ["Business Management", "Employee Management", "Data Management", "Multiple Store Management", "Inventory Management"]
 categories: ["Software", "Repair Business", "Web Application"]
 sitemap:

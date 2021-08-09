@@ -4,11 +4,12 @@ date: 2018-10-26T14:53:28+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/how-to-avoid-mismanagement-and-its-disastrous-effects.jpg"
+image_alter: "How to avoid mismanagement and its disastrous effects"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/how-to-avoid-mismanagement-and-its-disastrous-effects.jpg" alt="How To Avoid Mismanagement And Its Disastrous Effects" />
+<img src="/images/blogs/how-to-avoid-mismanagement-and-its-disastrous-effects.jpg" alt="How to avoid mismanagement and its disastrous effects"/>
 
 
 

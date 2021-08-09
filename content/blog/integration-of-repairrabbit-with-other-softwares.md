@@ -4,6 +4,7 @@ date: 2018-09-24T12:09:03+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/its-now-easy-to-integrate-RepairRabbit-with-other-softwares.jpg"
+image_alter: "It's now easy to integrate RepairRabbit with other softwares"
 tags: []
 categories: []
 ---
