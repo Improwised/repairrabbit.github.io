@@ -4,11 +4,12 @@ date: 2018-12-05T15:08:17+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/4-things-that-every-repair-business-owner-should-keep-in-mind-min.jpg"
+image_alter: "4 things that every repair business-owner should keep in mind"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/4-things-that-every-repair-business-owner-should-keep-in-mind-min.jpg" alt="4-Things That Every Repair Business-Owner Should Keep In Mind" />
+<img src="/images/blogs/4-things-that-every-repair-business-owner-should-keep-in-mind-min.jpg" alt="4 things that every repair business-owner should keep in mind" />
 
 There are many repair businesses trying to hold their place in the market by offering different schemes, discounts, etc. But, if you want to grow your business on a decent speed, you need to know the basics work according to a plan. People think that investing a huge amount of capital is enough for them but, you need to invest the amount on proper resources which can guarantee you success.
 

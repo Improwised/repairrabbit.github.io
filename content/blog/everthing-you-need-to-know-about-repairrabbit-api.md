@@ -4,11 +4,12 @@ date: 2018-09-17T16:01:37+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/repairrabbit-api-and-its-benefits-min.jpg"
+image_alter: "Everthing you need to know about RepairRabbit API"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/repairrabbit-api-and-its-benefits-min.jpg" alt="Everthing You Need to Know About RepairRabbit API" />
+<img src="/images/blogs/repairrabbit-api-and-its-benefits-min.jpg" alt="Everthing you need to know about RepairRabbit API"/>
 
 
 ## What is RepairRabbit API?

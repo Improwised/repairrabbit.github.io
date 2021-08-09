@@ -4,10 +4,11 @@ date: 2018-11-01T11:46:56+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/how-is-digitalized-management-system-better-than-traditional-ones.jpg"
+image_alter: "How is digitalized management system better than traditional ones"
 tags: []
 categories: []
 ---
-<img src="/images/blogs/how-is-digitalized-management-system-better-than-traditional-ones.jpg" alt="How Is Digitalized Management System Better Than Traditional Ones." />
+<img src="/images/blogs/how-is-digitalized-management-system-better-than-traditional-ones.jpg" alt="How is digitalized management system better than traditional ones" />
 
 
 There are many different methods that organizations follow for management. There are many traditional methods too but a business needs to identify the best method for the proper management.

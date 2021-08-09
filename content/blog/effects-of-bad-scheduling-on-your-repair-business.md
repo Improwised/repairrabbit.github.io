@@ -4,11 +4,12 @@ date: 2018-11-02T16:01:40+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/disadvantages-of-bad-scheduling-min.jpg"
+image_alter: "Disadvantages of bad scheduling"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/disadvantages-of-bad-scheduling-min.jpg" alt="Disadvantages Of Bad Scheduling"/>
+<img src="/images/blogs/disadvantages-of-bad-scheduling-min.jpg" alt="Disadvantages of bad scheduling"/>
 
 Nowadays cell phones are a very important part of everyone's life, people can hardly survive without their cell phones for a single day as they are the most used medium of communication with the help of the internet, social media, etc. And businesses have to take care of the requirement of each and every customer. They will demand to complete the repair of their device as soon as possible or some of them will demand to complete the repair work on the spot. In this situation, you can't accept every repair as they cannot be completed in a short period of time. The customers will not wait for you to accept their device to be repaired. They will choose other technicians or repair shops for repairing their device. Thus it will ultimately lead to loss and negative effect on your goodwill. 
 

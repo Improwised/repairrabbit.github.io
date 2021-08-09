@@ -4,11 +4,12 @@ date: 2018-06-26T17:33:58+05:30
 draft: false
 auther: "Tapan"
 image: "/images/blogs/businesses-who-can-take-advantage-of-RepairRabbit.png"
+image_alter: "Businesses who can take advantage of RepairRabbit software"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/businesses-who-can-take-advantage-of-RepairRabbit.png" alt="Businesses Who Can Take Advantage of RepairRabbit Software" title="businesses who can take advantage of RepairRabbit software"/>
+<img src="/images/blogs/businesses-who-can-take-advantage-of-RepairRabbit.png" alt="Businesses who can take advantage of RepairRabbit software" title="businesses who can take advantage of RepairRabbit software"/>
 
 <br>
 
