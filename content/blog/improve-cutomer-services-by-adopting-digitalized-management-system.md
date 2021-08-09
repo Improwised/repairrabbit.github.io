@@ -4,11 +4,12 @@ date: 2018-10-30T13:32:31+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/role-of-online-management-system-in-improving-customer-services-min.jpg"
+image_alter: "Role of online management system in improving customer services"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/role-of-online-management-system-in-improving-customer-services-min.jpg" alt="Role Of Online Management System In Improving Customer Services"/>
+<img src="/images/blogs/role-of-online-management-system-in-improving-customer-services-min.jpg" alt="Role of online management system in improving customer services"/>
 
 In today's competitive market, there are lots of repair business providing the same kind of services. But everyone doesn't stand out. The one who provides the best prices with quality services can be really successful in keeping the sales cycle going.
 

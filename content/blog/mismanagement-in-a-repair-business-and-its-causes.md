@@ -4,11 +4,12 @@ date: 2018-10-23T12:14:48+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/mismanagement-in-a-repair-business-and-its-causes.jpg"
+image_alter: "Mismanagement in a repair business and its causes"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/mismanagement-in-a-repair-business-and-its-causes.jpg" alt="Mismanagement In A Repair Business And Its Causes" />
+<img src="/images/blogs/mismanagement-in-a-repair-business-and-its-causes.jpg" alt="Mismanagement in a repair business and its causes"/>
 
 
 When you're into a repair business, there are lots of components and departments to supervise. For eg - Customer data, Employee Data, Financial accounts, Stock management, Appointments, Customer feedback section, and so on. And you cannot afford any major error in these areas. 

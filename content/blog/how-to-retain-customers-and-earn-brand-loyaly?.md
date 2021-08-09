@@ -4,11 +4,12 @@ date: 2018-11-20T10:54:01+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/how-to-retain-customers-and-earn-brand-loyaly-min.jpg"
+image_alter: "How to retain customers and earn brand loyaly"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/how-to-retain-customers-and-earn-brand-loyaly-min.jpg" alt="How To Retain Customers And Earn Brand Loyaly" />
+<img src="/images/blogs/how-to-retain-customers-and-earn-brand-loyaly-min.jpg" alt="How to retain customers and earn brand loyaly" />
 
 Nowadays businesses need to survive as people have invested a huge amount as a capital. Customer is king and businesses have to serve them the best to gain satisfaction.
 If your customer is not satisfied with your services you will not be able to get business from them again. This is a simple fact, right? But businesses still make mistakes in the organization, planning, and other factors which lead to revenue loss and poor customer satisfaction. When it comes to repair business, you need to be very careful in managing inventory, appointment booking, etc. You need to provide the best services and customer-friendly processes help you to do so.

@@ -4,11 +4,12 @@ date: 2018-11-30T12:16:37+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/looking-forward-to-start-a-new-repair-business-here-are-some-tips-and-tricks-min.jpg"
+image_alter: "Looking forward to start a new-repair-business here are some/tips and tricks"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/looking-forward-to-start-a-new-repair-business-here-are-some-tips-and-tricks-min.jpg" alt="looking Forward To Start A New-Repair-Business Here Are Some/Tips And Tricks"/>
+<img src="/images/blogs/looking-forward-to-start-a-new-repair-business-here-are-some-tips-and-tricks-min.jpg" alt="Looking forward to start a new-repair-business here are some/tips and tricks"/>
 
 Starting a repair business is a great way to get your feet wet as an entrepreneur. You do not need to invest a huge amount at the initial stage of your business but as it grows, you'll need to add more technicians, area for your service station, inventory, etc. You need proper management and organization for providing the best services. As in today's market, you need to stand out from all others if you want to survive in the market.
 

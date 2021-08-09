@@ -4,11 +4,12 @@ date: 2018-10-10T15:43:58+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/one-stop-solution-for-repair-businesses.jpg"
+image_alter: "One stop solution for repair businesses"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/one-stop-solution-for-repair-businesses.jpg" alt="One Stop Solution For Repair Businesses" />
+<img src="/images/blogs/one-stop-solution-for-repair-businesses.jpg" alt="One stop solution for repair businesses" />
 
 In today's market, a repair business company needs to manage multiple factors to organize the business properly. For e.g. - A repair business owner has to look after the data of his employees, customers, stock, repairs, finances, etc. Business having multiple branches usually face problems. And sometimes it becomes difficult to keep an eye on each factor. 
 
