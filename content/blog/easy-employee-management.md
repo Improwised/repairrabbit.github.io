@@ -4,11 +4,12 @@ date: 2018-07-09T17:24:38+05:30
 draft: false
 auther: "Prayansh"
 image: "/images/blogs/easy-employee-management.jpg"
+image_alter: "Easy employee management"
 tags: ["Business Management", "Employee Management", "Data Management", "Multiple Store Management", "Inventory Management"]
 categories: ["Software", "Repair Business", "Web Application"]
 ---
 
-<img src="/images/blogs/easy-employee-management.jpg" alt="Easy Employee Management" />
+<img src="/images/blogs/easy-employee-management.jpg" alt="Easy employee management" />
 
 <br>
 

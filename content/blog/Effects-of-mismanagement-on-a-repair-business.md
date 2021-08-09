@@ -4,12 +4,13 @@ date: 2018-10-25T15:37:24+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/effects-of-mismanagement-on-a-repair-business.jpg"
+image_alter: "Effects of mismanagement on a repair business"
 tags: []
 categories: []
 ---
 
 
-<img src="/images/blogs/effects-of-mismanagement-on-a-repair-business.jpg" alt="Effects Of Mismanagement On A Repair Business"/>
+<img src="/images/blogs/effects-of-mismanagement-on-a-repair-business.jpg" alt="Effects of mismanagement on a repair business"/>
 
 Mismanagement, less organized processes, lack of planning, etc. together lead to many disadvantages. Sometimes due to mismanagement organization has to suffer through major revenue loss. And in today's competitive market, companies cannot afford revenue loses. Thus, it's quite necessary to work according to roadmaps and achievable plans.
 

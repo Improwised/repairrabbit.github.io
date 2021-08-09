@@ -4,11 +4,12 @@ date: 2018-10-19T12:33:53+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/how-does-online-appointment-scheduling-leads-to-advancement-of-a-repair-business.jpg"
+image_alter: "How does online appointment scheduling leads to advancement of a repair business?"
 tags: ["Repair Business", "Online scheduling softwares", "Benefits of online scheduling", "Adoption of online appointment system"]
 categories: []
 ---
 
-<img src="/images/blogs/how-does-online-appointment-scheduling-leads-to-advancement-of-a-repair-business.jpg" alt="How does Online Appointment Scheduling Leads to Advancement of a Repair Business?" />
+<img src="/images/blogs/how-does-online-appointment-scheduling-leads-to-advancement-of-a-repair-business.jpg" alt="How does online appointment scheduling leads to advancement of a repair business?" />
 
 NNowadays medical centers, hair salons, sports clubs, and many more businesses are offering their customers online appointments. Customers will like convenient services, and they would love it if they have 24/7 access, whether that’s booking a hotel room or scheduling an oil change. And thus repair businesses are also adopting the Digitalized scheduling system. This is because people are usually active on the internet whether on mobile phones, tablet or their computers. It’s no surprise that consumers will choose to make an appointment for booking their slot rather than directly going to a repair shop and waiting for their turn. 
 
