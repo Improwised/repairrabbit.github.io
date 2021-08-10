@@ -1,7 +1,7 @@
 image: node
 
 before_script:
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.43/hugo_0.43_Linux-64bit.deb
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.87.0/hugo_0.87.0_Linux-64bit.deb
   - dpkg -i hugo*.deb
   - hugo version
 
