@@ -4,11 +4,12 @@ date: 2018-10-17T12:52:59+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/role-of-appointments-in-a-repair-business.jpg"
+image_alter: "Role of appointments in a repair businesses - RepairRabbit"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/role-of-appointments-in-a-repair-business.jpg" alt="Role of Appointments in a Repair Businesses - RepairRabbit" />
+<img src="/images/blogs/role-of-appointments-in-a-repair-business.jpg" alt="Role of appointments in a repair businesses - RepairRabbit" />
 
 In the repair business, there are multiple factors to look after such as inventory, invoices, tickets, appointments, etc. One of these factors "Appointments" play an important role in the development of repair businesses. 
 

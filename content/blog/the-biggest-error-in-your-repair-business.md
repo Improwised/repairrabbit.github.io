@@ -4,11 +4,12 @@ date: 2019-01-08T10:52:34+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/the-biggest-error-in-your-repair-business-min.jpg"
+image_alter: "The biggest error in your repair business"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/the-biggest-error-in-your-repair-business-min.jpg" alt="The Biggest Error In Your Repair Business"/>
+<img src="/images/blogs/the-biggest-error-in-your-repair-business-min.jpg" alt="The biggest error in your repair business"/>
 
 
 In this article, we're going to talk about the biggest and the most dangerous error in your repair business. And you know what? you're totally unaware of it! 

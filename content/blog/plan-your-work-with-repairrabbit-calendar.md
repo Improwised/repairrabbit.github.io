@@ -4,11 +4,12 @@ date: 2018-07-05T18:28:32+05:30
 draft: false
 auther: "Prayansh"
 image: "/images/blogs/plan-your-work-with-repairrabbit.jpg"
+image_alter: "Plan your work with RepairRabbit calendar"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/plan-your-work-with-repairrabbit.jpg" alt="Plan Your Work With RepairRabbit Calendar"/>
+<img src="/images/blogs/plan-your-work-with-repairrabbit.jpg" alt="Plan your work with RepairRabbit calendar"/>
  
 <br>
 Sometimes it becomes difficult to manage the work schedule properly as there are many appointments to look after. Avoid scrambles in your work schedule by executing it smoothly with the RepairRabbit calendar. 
