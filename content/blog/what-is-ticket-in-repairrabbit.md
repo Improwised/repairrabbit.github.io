@@ -4,13 +4,14 @@ date: 2018-06-21T13:48:21+05:30
 draft: false
 auther: "Prayansh"
 image: "/images/blogs/what-is-ticket-in-repairrabbit.png"
+image_alter: "What is ticket in RepairRabbit"
 tags: [tickets]
 categories: [features]
 sitemap:
   priority: 0.8
 ---
 
-<img src="/images/blogs/what-is-ticket-in-repairrabbit.png" alt="What Is ticket in RepairRabbit"/>
+<img src="/images/blogs/what-is-ticket-in-repairrabbit.png" alt="What is ticket in RepairRabbit"/>
 
 <br>
 

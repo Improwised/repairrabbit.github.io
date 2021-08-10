@@ -4,11 +4,12 @@ date: 2018-11-28T16:55:33+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/this-is-how-using-a-management-software-will-help-you-min.jpg"
+image_alter: "This is how using a management software will help you"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/this-is-how-using-a-management-software-will-help-you-min.jpg" alt="This Is How Using A Management Software Will Help You"/>
+<img src="/images/blogs/this-is-how-using-a-management-software-will-help-you-min.jpg" alt="This is how using a management software will help you"/>
 
 
 In today’s competitive market, there are lots of repair business providing the same kind of services. But everyone doesn’t stand out. The one who provides the best prices with quality services can be really successful in keeping the sales cycle going.

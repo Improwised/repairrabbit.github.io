@@ -4,11 +4,12 @@ date: 2018-08-03T12:21:53+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/quick-access-on-business-activities-with-RepairRabbit-dashboard.jpg"
+image_alter: "Quick access on business activities with RepairRabbit dashboard"
 tags: []
 categories: []
 ---
 
-<img src="/images/blogs/quick-access-on-business-activities-with-RepairRabbit-dashboard.jpg" alt="quick access on business activities with RepairRabbit dashboard" />
+<img src="/images/blogs/quick-access-on-business-activities-with-RepairRabbit-dashboard.jpg" alt="Quick access on business activities with RepairRabbit dashboard" />
 
 
 Frustrated with lengthy software processes?  Tired of following the same boring format? Then there is good news for you!! RepairRabbit offers easy to use shortcuts for every important task with just one click access to save your valuable time. 

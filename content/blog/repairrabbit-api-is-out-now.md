@@ -4,11 +4,12 @@ date: 2018-09-14T12:07:03+05:30
 draft: false
 auther: "RepairRabbit"
 image: "/images/blogs/repair-rabbit-api-out-now.jpg"
+image_alter: "RepairRabbit api is out now!"
 tags: ['feature']
 categories: []
 ---
 
-<img src="/images/blogs/repair-rabbit-api-out-now.jpg" alt="RepairRabbit Api Is Out Now!" />
+<img src="/images/blogs/repair-rabbit-api-out-now.jpg" alt="RepairRabbit api is out now!" />
 
 
 APIs play an important role in managing, transferring your data, and working on other manual processes. They also help you coordinate with other systems. And in a repair business, there are multiple factors to look after like - tickets, appointments, customer data, employee data, etc. 
