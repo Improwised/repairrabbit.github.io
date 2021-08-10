@@ -25,9 +25,9 @@
               <a href="{{.RelPermalink}}">
                 <div class="bimage">
                   {{ if .Params.image }}
-                  <img src="{{ .Params.image }}">
+                  <img src="{{ .Params.image }}" alt="{{ .Params.image_alter }}">
                   {{else}}
-                  <img src="/images/default_blog_image.png">
+                  <img src="/images/default_blog_image.png" alt="RepairRabbit blog category image">
                   {{ end }}
                 </div>
                 <div class="blog_info">
