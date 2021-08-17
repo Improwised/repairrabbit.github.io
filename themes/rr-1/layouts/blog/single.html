@@ -50,11 +50,11 @@
             "name": "RepairRabbit",
             "item": "{{.Site.BaseURL}}"
           },
-          {{ $.Scratch.Add "schemaPath" .Site.BaseURL }}
+          {{ $.Scratch.Add "schemaPath" .Site.BaseURL | safeJS }}
           {{ range $index, $element := split $url "/" }}
-            {{ $.Scratch.Add "schemaPath" $element }}
+            {{ $.Scratch.Add "schemaPath" $element | safeJS }}
               {{ if ne $element "" }}
-                {{ $.Scratch.Add "schemaPath" "/" }}
+                {{ $.Scratch.Add "schemaPath" "/" | safeJS }}
                 {{ $breadcrumbItemUrl := $.Scratch.Get "schemaPath" }}
                 {{ if ne $currentPageUrl $breadcrumbItemUrl }}
                   {
