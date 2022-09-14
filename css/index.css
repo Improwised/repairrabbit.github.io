@@ -1,0 +1,1159 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: #00cdc1;
+  color: #000000;
+}
+
+::-moz-selection {
+  background: #00cdc1;
+  color: #000000;
+}
+
+
+/* colors */
+
+.bc-y {
+  color: #ffc420;
+}
+
+.b-bc-y {
+  background-color: #ffc420;
+}
+
+.bc-b {
+  color: #00cdc1;
+}
+
+.b-bc-b {
+  background-color: #00cdc1;
+}
+
+.c-db {
+  color: #008077;
+}
+
+.c-w {
+  color: white;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.bg-light-blue {
+  background-color: #f1f7fb;
+}
+
+.bg-light-gray {
+  background-color: #f7f7f7;
+}
+
+.fs-14 {
+  font-size: 0.875rem;
+}
+
+.fs-18 {
+  font-size: 1.125rem;
+}
+
+.fs-19 {
+  font-size: 1.1875rem;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+
+a.bc-b-hover:hover {
+  color: #00cdc1;
+}
+
+.w_100per {
+  width: 100%;
+}
+
+/*flex*/
+
+.d_f {
+  display: flex;
+}
+
+.j_c_c {
+  justify-content: center;
+}
+
+.a_l_c {
+  align-items: center;
+}
+
+.a_l_e {
+  align-items: flex-end;
+}
+
+.j_c_s_b {
+  justify-content: space-between;
+}
+
+.f_w_w {
+  flex-wrap: wrap;
+}
+
+.background-image {
+  top: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100vh;
+  display: block;
+  position: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: url('/images/background.jpg');
+  filter: brightness(0.39) contrast(1);
+  -webkit-filter: brightness(0.39) contrast(1);
+}
+
+.demo-bg {
+  top: 0;
+  z-index: -1;
+  width: 100%;
+  height: 240px;
+  display: block;
+  position: fixed;
+  background-color: #6495ed;
+}
+
+
+/* button style for pricing & customization */
+
+.heroUnit .btn,
+.pricing .btn,
+.customization .btn,
+.contact-us-call-to-action .btn,
+.api .btn {
+  font-size: 1.5rem;
+  padding: 0.625rem 4.5rem;
+  transition: all 0.05s ease-out;
+}
+
+.btn {
+  transition: all 0.05s ease-out;
+}
+
+.btn:hover {
+  transform: scale(1.06);
+}
+
+/* navigation */
+
+.navbar-custom {
+  top: 0;
+  z-index: 1100;
+  transition: .1s all linear;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.navbar-custom .navbar-nav {
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.navbar-custom .navbar-nav .nav-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-custom .navbar-nav .nav-item a {
+  width: 100%;
+  font-size: 1.3125rem;
+}
+
+.nav-transparent {
+  box-shadow: none;
+  background-color: transparent !important;
+}
+
+.nav-transparent .navbar-nav .nav-item a {
+  color: white;
+  font-weight: normal;
+}
+
+.nav-transparent .navbar-nav .nav-item.active a {
+  color: #F7FFFF;
+}
+
+.navbar-custom.nav-transparent #navbarSupportedContent li:hover a,
+.navbar-custom.nav-transparent #navbarSupportedContent li.active a {
+  color: #ffc420;
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid #ffc420;
+}
+
+.nav-transparent.navbar-custom {
+  border-bottom: none;
+}
+
+.nav-transparent.navbar-custom .btn-try-free-herounit {
+  color: #ffc420;
+}
+
+#navbarSupportedContent li a {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0.85rem;
+  margin-right: 0.85rem;
+}
+
+#navbarSupportedContent li:last-child a {
+  margin-right: 0rem;
+}
+
+.navbar-custom #navbarSupportedContent li a {
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+}
+
+.navbar-custom #navbarSupportedContent li:hover a,
+.navbar-custom #navbarSupportedContent li.active a {
+  color: #00645F;
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid #00645F;
+}
+
+.navbar-custom #navbarSupportedContent li:hover a.btn-link,
+.navbar-custom #navbarSupportedContent li.active a.btn-link {
+  color: #00645F;
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+}
+
+.navbar-custom .btn-try-free-herounit {
+  color: black;
+}
+
+/* heroUnit */
+
+.heroUnit {
+  /*display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: calc(100vh - 76px);*/
+}
+
+.heroUnit h1 {
+  font-size: 4.8125rem;
+  color: white;
+}
+
+.heroUnit img {
+  max-width: 100%;
+}
+
+.heroUnit p {
+  font-size: 1.5rem;
+  color: white;
+}
+
+.heroUnit .call-to-action button {
+  border-width: 2px;
+  margin: 10px;
+  min-width: 267px;
+}
+
+.btn-try-free-herounit {
+  color: #ffc420;
+  border-color: #ffc420;
+  background-color: transparent;
+}
+
+.heroUnit .call-to-action p {
+  color: white;
+  font-size: 1.125rem;
+  font-style: italic;
+}
+
+.sticky-demo-link {
+  right: 0;
+  bottom: 0;
+  z-index: 111111111;
+  position: fixed;
+  width: 100%;
+}
+
+.sticky-demo-link a {
+  color: #303030;
+  text-decoration: none;
+}
+
+.sticky-demo-link a .alert {
+  font-size: 1.125rem;
+  border-radius: 0;
+  background-color: #ffc420;
+  display: none;
+}
+
+/* tagline */
+
+.tagLine,
+.tagLine * {
+  font-weight: bold;
+}
+
+.aboutUs,
+.features,
+.pricing,
+.customization,
+.businesses,
+.technologies,
+.faqs,
+.whyRepairRabbit,
+.comparison {
+  padding: 6rem 0;
+}
+
+.aboutUs h2,
+.features h2,
+.pricing h2,
+.customization h2,
+.businesses h2,
+.technologies h2,
+.faqs h2,
+.whyRepairRabbit h2,
+.comparison h2,
+.api h2 {
+  color: #00645F;
+  font-size: 2.625rem;
+  margin-bottom: 0.9375rem;
+}
+
+
+/* aboutUs */
+
+.aboutUs {
+  background-color: white;
+}
+
+.aboutUs .info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.aboutUs .des {
+  color: #303030;
+  font-size: 1.5rem;
+}
+
+.seprator {
+  height: 200px;
+}
+
+
+/* features */
+
+#features {
+  background-color: #383838;
+}
+
+.feature {
+  display: flex;
+  margin-bottom: 1.875rem;
+}
+
+.features .feature:last-child,
+.features .feature:nth-child(7) {
+  margin-bottom: 0;
+}
+
+.features h3,
+.customization h3,
+.pricing h3,
+.businesses h3,
+.technologies h3,
+.faqs h3,
+.whyRepairRabbit h3,
+.comparison h3,
+.api h3 {
+  color: #515151;
+  font-size: 1.5625rem;
+  margin-bottom: 0.9375rem;
+}
+
+.features h2 {
+  color: #ffc420;
+}
+
+.features h3 {
+  color: white;
+}
+
+.features .feature-desc h4 {
+  color: #ffc420;
+  font-weight: bold;
+}
+
+.features .feature-desc p {
+  color: white;
+}
+
+.feature-image {
+  min-width: 80px;
+  text-align: center;
+}
+
+.feature-image img {
+  width: 55%;
+}
+
+
+/* runnin-bussiness-icon */
+.runnin-bussiness-icon {
+  margin: 0 auto;
+  position: relative;
+  border-radius: 100%;
+  height: 105px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 3.125rem;
+}
+
+.runnin-bussiness-icon img {
+  position: absolute;
+}
+
+.runnin-bussiness-icon .rbi-2 {
+  bottom: -30px;
+  right: 20px;
+}
+
+.whyRepairRabbit .why-questions {
+  display: flex;
+  justify-content: center;
+}
+
+.whyRepairRabbit .why-questions div {
+  padding: 0.9375rem;
+}
+
+.whyRepairRabbit .why-questions p {
+  display: flex;
+  color: #00645F;
+  font-size: 1.125rem;
+}
+
+.whyRepairRabbit .benifits {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.whyRepairRabbit .benifits div {
+  width: 250px;
+}
+
+.whyRepairRabbit .benifits div img {
+  margin-bottom: 0.9375rem;
+}
+
+.whyRepairRabbit .benifits div h5 {
+  color: #00645F;
+  text-transform: capitalize;
+}
+
+/* comparision with repairrabbit */
+
+.comparison img {
+  transform: rotateY(180deg);
+}
+
+.comparision-with-repairrabbit {
+  display: flex;
+  margin: 0 auto;
+  max-width: 1200px;
+  justify-content: center;
+}
+
+.comparision-with-repairrabbit table {
+  margin: 0;
+  max-width: 1200px;
+}
+
+.comparision-with-repairrabbit table td,
+.comparision-with-repairrabbit table th {
+  color: #303030;
+  text-align: center;
+  vertical-align: middle;
+  border-top: 1px dashed #e0e0e0;
+  border-bottom: 1px dashed #e0e0e0;
+  font-size: 1.125rem;
+}
+
+.comparision-with-repairrabbit table td:first-child,
+.comparision-with-repairrabbit table th:first-child {
+  border-left: 1px dashed #e0e0e0;
+}
+
+.comparision-with-repairrabbit table td:nth-child(2),
+.comparision-with-repairrabbit table th:nth-child(2) {
+  color: #00645F;
+  border-left: 1px solid #00645F;
+  border-right: 1px solid #00645F;
+  padding: 1.875rem 0.625rem;
+  background-color: #f5fffe;
+}
+
+.comparision-with-repairrabbit table td:last-child,
+.comparision-with-repairrabbit table th:last-child {
+  border-right: 1px dashed #e0e0e0;
+}
+
+.comparision-with-repairrabbit table tr:first-child th:nth-child(2) {
+  border-top: 3px solid #00645F;
+}
+
+.comparision-with-repairrabbit table tr:last-child td:nth-child(2) {
+  border-bottom: 3px solid #00645F;
+}
+
+#pricing {
+  background-image: url("/images/rabbit.svg");
+  background-repeat: no-repeat;
+  background-size: 250px;
+  background-position: 95% bottom;
+}
+
+#pricing .price {
+  background-color: #ffc420;
+  box-shadow: 5px 5px 0px 0px #eee;
+  background-color: white;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+
+#pricing .price h3 {
+  font-size: 60px;
+  line-height: 1;
+  color: #9acd32;
+}
+
+#pricing .price span {
+  color: #909090;
+}
+
+/* pricing-box
+
+.pricing-box {
+  color: white;
+  margin: 0 auto;
+  max-width: 300px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #1bb1a7;
+}
+
+.pricing-box .plan-inside {
+  padding: 30px 0 0 0;
+  min-height: 105px;
+  text-align: center;
+}
+
+.pricing-box .plan-inside .list-group {
+  padding: 15px 0;
+  border-radius: 0;
+  border: 2px solid white;
+  border-width: 2px 0 2px 0;
+}
+
+.pricing-box .plan-inside .list-group .list-group-item {
+  border-radius: 0;
+  border-width: 0px 0px 0px 0;
+  background-color: transparent;
+}
+
+.plan-footer {
+  padding: 30px;
+}
+
+.pricingFeatures1 {
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.pricingFeatures1 li {
+  margin: 5px;
+  color: #00645F;
+  font-size: 18px;
+  border-width: 2px;
+  border-color: #00645F;
+  border-radius: 0px !important;
+}
+
+.pricingFeatures1 li:last-child {
+  margin: 5px;
+}
+
+
+/* vertical seprator */
+
+.vertical-seprator {
+  display: flex;
+  justify-content: center;
+}
+
+.vertical-seprator div {
+  border-left: 1px dotted;
+}
+
+
+/* businesses */
+
+.businessesList {
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 2.8125rem 1.875rem 2.8125rem;
+}
+
+.businessesList li {
+  padding: 0;
+  width: 150px;
+  height: 150px;
+  margin: 0.3125rem;
+  display: flex;
+  color: #00645F;
+  border-width: 2px;
+  font-size: 1.25rem;
+  text-align: center;
+  align-items: center;
+  border-color: #00645F;
+  justify-content: center;
+  transform: rotate(45deg);
+  border-radius: 5px !important;
+}
+
+.businessesList li:focus, .businessesList li:hover {
+  z-index: auto;
+}
+
+.businessesList li span {
+  transform: rotate(-45deg);
+}
+
+
+/* technologies */
+
+.technologies .technologiesList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.technologies .technologiesList .tech {
+  margin: 0.3125rem;
+  display: flex;
+  padding: 1.5625rem 0.9375rem;
+  flex-wrap: wrap;
+  min-width: 200px;
+  text-align: center;
+  border-radius: 5px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  color: teal;
+  border: 2px solid #aaaaaa4f;
+}
+
+.technologies .technologiesList .tech img,
+.technologies .technologiesList .tech svg {
+  max-height: 51px;
+  margin-right: 0.3125rem;
+}
+
+.technologies .technologiesList .tech label {
+  font-weight: bold;
+  margin-bottom: 0.625rem;
+}
+
+.technologies .technologiesList .tech a {
+  flex-grow: 1;
+  width: 100%;
+  margin-top: 0.625rem;
+}
+
+.technologies .technologiesList .tech * {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* faqs */
+.faqs .faq {
+  display: flex;
+}
+
+.faqs .faq .faq-icon {
+  max-width: 40px;
+  min-width: 40px;
+}
+
+.faqs .faq .faq-icon img{
+  width: 100%;
+}
+
+.faqs .faq .faq-q-a h4 {
+  color: #00645F;
+  font-weight: bold;
+}
+
+.faqs .faq .faq-q-a ul {
+  padding: 0;
+  list-style: none;
+}
+
+.faqs .faq .faq-q-a ul li {
+  display: flex;
+}
+
+.faqs .faq .faq-q-a ul li img{
+  margin-top: 0.1875rem;
+}
+
+/*  */
+
+.contact-us-call-to-action {
+  color: white;
+  display: flex;
+  padding: 3.125rem 0;
+  align-items: center;
+  justify-content: center;
+  background-color: #00645F;
+  /*background-image: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);*/
+}
+
+.contact-us-call-to-action div {
+  display: flex;
+  width: 1140px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contact-us-call-to-action div * {
+  margin: 0.9375rem;
+}
+
+/* footer */
+
+footer {
+  color: #9da1ac;
+  background-color: #09142f;
+}
+
+footer button {
+  color: black;
+}
+
+footer * {
+  color: #9da1ac;
+}
+
+.markdown-body {
+  font-size: 1.125rem;
+}
+
+.getInTouch {
+  width: 305px;
+  max-width: 305px;
+}
+
+.getInTouch .form-control:focus {
+  border-color: white;
+  box-shadow: none;
+}
+
+.getInTouch .btn:Hover {
+  transform: none;
+}
+
+.getInTouch .success {
+  color: white;
+  padding: 0.3125rem;
+  background-color: darkgreen;
+  border-radius: 5px;
+}
+
+.getInTouch .error {
+  color: white;
+  padding: 0.3125rem;
+  background-color: darkred;
+  border-radius: 5px;
+}
+
+/* Blog */
+
+.blog {
+  display: flex;
+  justify-content: center;
+}
+
+.blog .content {
+  width: 680px;
+  max-width: 680px;
+}
+
+.blog .content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blog .content {
+  font-size: 1.125rem;
+  line-height: 1.7;
+}
+
+.blog_assets {
+  display: flex;
+  justify-content: center;
+}
+
+.blog_assets .assets {
+  width: 680px;
+  max-width: 680px;
+}
+
+.blogs_list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+._blog {
+  width: 340px;
+  margin: 0.9375rem;
+  text-align: center;
+  border-radius: 3px;
+  background-color: white;
+  border: 1px solid #e2e1e1;
+  border-bottom: 3px solid #00cdc1;
+}
+
+._blog * {
+  margin: 0;
+  padding: 0;
+}
+
+._blog *:hover {
+  text-decoration: none;
+}
+
+.blogs_list img {
+  max-width: 100%;
+}
+
+.bimage {
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #efefef;
+}
+
+._blog .blog_info {
+  padding: 0.9375rem;
+  text-align: left;
+}
+
+._blog .blog_info date {
+  font-size: 0.75rem;
+}
+
+._blog .blog_info .title {
+  font-weight: normal;
+  margin-bottom: 0.9375rem;
+  color: black;
+  line-height: 1.3;
+}
+
+._blog .blog_info .auther,
+._blog .blog_info .date {
+  color: #505050;
+  font-size: 0.9375rem;
+  text-align: right;
+}
+
+._blog .blog_info .auther {
+  margin-bottom: 0.3125rem;
+  text-transform: capitalize;
+}
+
+._blog .blog_info .summary {
+  color: #606060;
+  font-size: 0.875rem;
+  text-align: left;
+  margin-bottom: 0.9375rem;
+  line-height: 1.5;
+}
+
+.b_auther {
+  font-size: 1rem;
+  text-transform: capitalize;
+}
+
+.blog_categories {
+  padding: 1.25rem 0;
+  text-align: center;
+  border-bottom: 1px solid #efefef;
+}
+
+.blog_categories h4 {
+  margin-bottom: 0.3125rem;
+}
+
+.blog_category {
+  color: #595959;
+  padding: 0.3125rem 0.625rem;
+  display: inline-block;
+  background-color: transparent;
+  border: 1px solid #595959;
+  font-weight: normal;
+  border-radius: 3px;
+  font-size: 1rem;
+  margin: 0.3125rem;
+  align-items: center;
+}
+
+.blog_category:hover {
+  color: #303030;
+  text-decoration: none;
+  border: 1px solid #00cdc1;
+  background-color: #00cdc1;
+}
+
+.blog_category.active {
+  color: #00322F;
+  text-decoration: none;
+  border: 1px solid #00cdc1;
+  background-color: #00cdc1;
+}
+
+.blog_header {
+  display: flex;
+  justify-content: center;
+}
+
+.blog_header ._header {
+  width: 680px;
+  max-width: 680px;
+}
+
+.blog_details {
+  display: flex;
+  color: #707070;
+  font-size: 1rem;
+  text-transform: capitalize;
+}
+
+.taxonomy-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: calc( 100vh - 407px);
+}
+
+.taxonomy-list ._blog {
+  width: auto;
+  border-bottom: 1px solid #e2e1e1;
+}
+
+.keywords {
+  height: 0;
+  overflow: hidden;
+}
+
+.api {
+  box-shadow: 0 0 20px #ddd;
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width: 1199px) {
+  .navbar-custom .navbar-nav .nav-item a {
+    width: 100%;
+    font-size: 1.0625rem;
+  }
+  .pricingFeatures1 li {
+    flex-grow: 1;
+  }
+  .heroUnit h1 {
+    font-size: 4.25rem;
+  }
+  #pricing {
+    background-size: 200px;
+  }
+  .sticky-demo-link a .alert {
+    display: block;
+  }
+}
+
+@media (max-width: 991px) {
+  .background-image {
+    top: 71px;
+  }
+  .navbar-custom .navbar-nav {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .navbar-nav {
+    flex-direction: row;
+  }
+  .heroUnit {
+    background-size: 55%;
+  }
+  .heroUnit h1 {
+    font-size: 3rem;
+  }
+  .heroUnit button {
+    font-size: 1.3125rem;
+    padding: 0.625rem 2.5rem;
+  }
+  .seprator {
+    height: 80px;
+  }
+  .pricingFeatures1 li {
+    padding: 0.625rem;
+  }
+  .contact-us-call-to-action div {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 767px) {
+  /* hero unit */
+  .heroUnit {
+    background-size: 50%;
+  }
+  .heroUnit h1 {
+    font-size: 2.375rem;
+  }
+  .heroUnit button {
+    font-size: 1.125rem;
+    padding: 0.5rem 1.875rem;
+  }
+  .heroUnit img {
+    max-width: auto;
+    max-height: 320px;
+  }
+  /**/
+  .aboutUs,
+  .features,
+  .pricing,
+  .customization,
+  .businesses,
+  .technologies,
+  .faqs,
+  .whyRepairRabbit,
+  .comparison {
+    padding: 3rem 0;
+  }
+  /**/
+  .seprator {
+    height: 0px;
+  }
+  /**/
+  .features .feature:last-child,
+  .features .feature:nth-child(7) {
+    margin-bottom: 1.875rem;
+  }
+  #pricing {
+    background-size: 100px;
+  }
+}
+
+@media (max-width: 567px) {
+  .lineBreak {
+    display: none;
+  }
+  .heroUnit .container {
+    padding-top: 0 !important;
+  }
+  .heroUnit p {
+    font-size: 1.125rem;
+  }
+  .heroUnit .call-to-action p {
+    font-size: 1rem;
+  }
+  #pricing {
+    background-image: none;
+  }
+  .comparision-with-repairrabbit table td,
+  .comparision-with-repairrabbit table th {
+    font-size: 1rem;
+    padding: 0.625rem 0.3125rem;
+  }
+  .comparision-with-repairrabbit table td:last-child, .comparision-with-repairrabbit table th:last-child {
+    padding: 0.625rem 0.3125rem;
+  }
+}
+
+@media (max-width: 380px) {
+  .heroUnit h1 {
+    font-size: 1.875rem;
+  }
+
+  .heroUnit p {
+    font-size: 1rem;
+  }
+
+  .heroUnit .call-to-action button {
+    border-width: 2px;
+    min-width: 200px;
+    margin: 0.625rem;
+  }
+
+  .heroUnit .btn,
+  .pricing .btn,
+  .customization .btn,
+  .contact-us-call-to-action .btn, .api .btn {
+    font-size: 1.125rem;
+    padding: 0.625rem 1.25rem !important;
+    transition: all 0.05s ease-out;
+  }
+
+  .aboutUs h2,
+  .features h2,
+  .pricing h2,
+  .customization h2,
+  .businesses h2,
+  .technologies h2,
+  .faqs h2,
+  .whyRepairRabbit h2,
+  .comparison h2,
+  .api h2 {
+    font-size: 2rem;
+  }
+
+  .comparision-with-repairrabbit table td,
+  .comparision-with-repairrabbit table th {
+    font-size: 0.875rem;
+  }
+
+  .getInTouch {
+    width: 270px;
+    max-width: 270px;
+  }
+}
