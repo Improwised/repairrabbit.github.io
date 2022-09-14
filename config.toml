@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://www.repairrabbit.co/"
+baseURL = "https://dev-docs.repairrabbit.co/"
 languageCode = "en-us"
 title = "RepairRabbit"
 themesDir = "themes"
