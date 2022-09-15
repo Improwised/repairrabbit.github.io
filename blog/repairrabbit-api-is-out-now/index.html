@@ -1,136 +1,268 @@
-<!doctype html><html lang=en>
-<head>
-<meta charset=utf-8>
-<meta http-equiv=content-language content="en">
-<meta name=viewport content="width=device-width,initial-scale=1">
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Language" content="en">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+    
+
+
 <title>RepairRabbit API Is Out Now! - RepairRabbit</title>
-<meta name=title content="RepairRabbit API Is Out Now! - RepairRabbit - Enhance your repair business with RepairRabbit">
-<meta name=description content="APIs play an important role in managing, transferring your data, and working on other manual processes. They also help you coordinate with other systems. And in a repair business, there are multiple factors to look after like - tickets, appointments, customer data, employee data, etc. Thus we&rsquo;ve been working on RepairRabbit API since long and finally, it has been launched!
+
+<meta name="title" content ="RepairRabbit API Is Out Now! - RepairRabbit - Enhance your repair business with RepairRabbit">
+<meta name="description" content="APIs play an important role in managing, transferring your data, and working on other manual processes. They also help you coordinate with other systems. And in a repair business, there are multiple factors to look after like - tickets, appointments, customer data, employee data, etc. Thus we&rsquo;ve been working on RepairRabbit API since long and finally, it has been launched!
 Let&rsquo;s see how it will be useful for your repair business   It&rsquo;s now easy to integrate with other softwares for securing and transferring your data to the RepairRabbit. - RepairRabbit">
-<meta name=author content="RepairRabbit">
-<meta property="og:url" content="https://dev-docs.repairrabbit.co/blog/repairrabbit-api-is-out-now/">
-<meta property="og:type" content="website">
-<meta property="og:title" content="RepairRabbit API Is Out Now! - RepairRabbit - Enhance your repair business with RepairRabbit">
-<meta property="og:description" content="APIs play an important role in managing, transferring your data, and working on other manual processes. They also help you coordinate with other systems. And in a repair business, there are multiple factors to look after like - tickets, appointments, customer data, employee data, etc. Thus we&rsquo;ve been working on RepairRabbit API since long and finally, it has been launched!
+<meta name="author" content="RepairRabbit">
+
+<meta property="og:url"           content="https://dev-docs.repairrabbit.co/blog/repairrabbit-api-is-out-now/" />
+<meta property="og:type"          content="website" />
+<meta property="og:title"         content="RepairRabbit API Is Out Now! - RepairRabbit - Enhance your repair business with RepairRabbit" />
+<meta property="og:description"   content="APIs play an important role in managing, transferring your data, and working on other manual processes. They also help you coordinate with other systems. And in a repair business, there are multiple factors to look after like - tickets, appointments, customer data, employee data, etc. Thus we&rsquo;ve been working on RepairRabbit API since long and finally, it has been launched!
+Let&rsquo;s see how it will be useful for your repair business   It&rsquo;s now easy to integrate with other softwares for securing and transferring your data to the RepairRabbit. - RepairRabbit - Enhance your repair business with RepairRabbit" />
+<meta property="og:image"         content='https://dev-docs.repairrabbit.co/images/blogs/repair-rabbit-api-out-now.jpg' />
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@repairRabbit">
+<meta name="twitter:creator" content="@repairRabbit">
+<meta name="twitter:title" content="RepairRabbit API Is Out Now! - RepairRabbit - Enhance your repair business with RepairRabbit">
+<meta name="twitter:description" content="APIs play an important role in managing, transferring your data, and working on other manual processes. They also help you coordinate with other systems. And in a repair business, there are multiple factors to look after like - tickets, appointments, customer data, employee data, etc. Thus we&rsquo;ve been working on RepairRabbit API since long and finally, it has been launched!
 Let&rsquo;s see how it will be useful for your repair business   It&rsquo;s now easy to integrate with other softwares for securing and transferring your data to the RepairRabbit. - RepairRabbit - Enhance your repair business with RepairRabbit">
-<meta property="og:image" content="https://dev-docs.repairrabbit.co/images/blogs/repair-rabbit-api-out-now.jpg">
-<meta name=twitter:card content="summary">
-<meta name=twitter:site content="@repairRabbit">
-<meta name=twitter:creator content="@repairRabbit">
-<meta name=twitter:title content="RepairRabbit API Is Out Now! - RepairRabbit - Enhance your repair business with RepairRabbit">
-<meta name=twitter:description content="APIs play an important role in managing, transferring your data, and working on other manual processes. They also help you coordinate with other systems. And in a repair business, there are multiple factors to look after like - tickets, appointments, customer data, employee data, etc. Thus we&rsquo;ve been working on RepairRabbit API since long and finally, it has been launched!
-Let&rsquo;s see how it will be useful for your repair business   It&rsquo;s now easy to integrate with other softwares for securing and transferring your data to the RepairRabbit. - RepairRabbit - Enhance your repair business with RepairRabbit">
-<meta name=twitter:image content="https://dev-docs.repairrabbit.co/images/blogs/repair-rabbit-api-out-now.jpg">
-<link rel=stylesheet href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:100,300,400,400italic,500,700,900">
-<link href=/dist/index.min.css rel=stylesheet type=text/css media=all lazyload>
-<meta name=google-site-verification content="woIaC7bOQJh7tk4C_RPSk48C-bNZMfB_O6Y4DB1vPN8">
-<link rel="shortcut icon" type=image/x-icon href=/favicon.ico>
-<link rel=apple-touch-icon sizes=57x57 href=/apple-icon-57x57.png>
-<link rel=apple-touch-icon sizes=60x60 href=/apple-icon-60x60.png>
-<link rel=apple-touch-icon sizes=72x72 href=/apple-icon-72x72.png>
-<link rel=apple-touch-icon sizes=76x76 href=/apple-icon-76x76.png>
-<link rel=apple-touch-icon sizes=114x114 href=/apple-icon-114x114.png>
-<link rel=apple-touch-icon sizes=120x120 href=/apple-icon-120x120.png>
-<link rel=apple-touch-icon sizes=144x144 href=/apple-icon-144x144.png>
-<link rel=apple-touch-icon sizes=152x152 href=/apple-icon-152x152.png>
-<link rel=apple-touch-icon sizes=180x180 href=/apple-icon-180x180.png>
-<link rel=icon type=image/png sizes=192x192 href=/android-icons/icon-192x192.png>
-<link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
-<link rel=icon type=image/png sizes=96x96 href=/favicon-96x96.png>
-<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png>
-<link rel=manifest href=/manifest.json>
-<meta name=msapplication-TileColor content="#ffffff">
-<meta name=msapplication-TileImage content="/ms-icon-144x144.png">
-<meta name=theme-color content="#ffffff">
-<meta name=mobile-web-app-capable content="yes">
-<meta name=apple-mobile-web-app-capable content="yes">
-<meta name=msapplication-starturl content="/">
+<meta name="twitter:image" content="https://dev-docs.repairrabbit.co/images/blogs/repair-rabbit-api-out-now.jpg">
+
+  
+
+  
+  
+  <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:100,300,400,400italic,500,700,900'>
+
+  
+  <link href="/dist/index.min.css" rel="stylesheet" type="text/css" media="all" lazyload/>
+  
+
+
+
+  
+  <meta name="google-site-verification" content="woIaC7bOQJh7tk4C_RPSk48C-bNZMfB_O6Y4DB1vPN8" />
+
+  
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/android-icons/icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="msapplication-starturl" content="/">
 </head>
-<body>
-<script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/dev-docs.repairrabbit.co\/blog\/repairrabbit-api-is-out-now\/"},"headline":"RepairRabbit API Is Out Now!","image":{"@type":"ImageObject","url":"https:\/\/dev-docs.repairrabbit.co\/images\/blogs\/repair-rabbit-api-out-now.jpg","height":1920,"width":1271},"datePublished":"2018-09-14 12:07:03 \u002b0530 \u002b0530","dateModified":"2018-09-14 12:07:03 \u002b0530 \u002b0530","author":{"@type":"Person","name":"RepairRabbit"},"publisher":{"@type":"Organization","name":"RepairRabbit","logo":{"@type":"ImageObject","url":"https://www.repairrabbit.co/images/logo.png","width":600,"height":60}},"description":"APIs play an important role in managing, transferring your data, and working on other manual processes. They also help you coordinate with other systems. And in a repair business, there are multiple factors to look after like - tickets, appointments, customer data, employee data, etc. Thus we\u0026rsquo;ve been working on RepairRabbit API since long and finally, it has been launched!\nLet\u0026rsquo;s see how it will be useful for your repair business   It\u0026rsquo;s now easy to integrate with other softwares for securing and transferring your data to the RepairRabbit."}</script>
-<script type=application/ld+json>{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"RepairRabbit","item":"https:\/\/dev-docs.repairrabbit.co\/"},{"@type":"ListItem","position":2,"name":"blog","item":"https:\/\/dev-docs.repairrabbit.co\/blog\/"},{"@type":"ListItem","position":3,"name":"RepairRabbit API Is Out Now!","item":"https:\/\/dev-docs.repairrabbit.co\/blog\/repairrabbit-api-is-out-now\/"}]}</script>
-<nav class="navbar navbar-expand-lg navbar-light bg-light position-sticky navbar-custom">
-<div class=container-fluid>
-<a class=navbar-brand href=/ title=RepairRabbit>
-<img src=/images/logo.png title=RepairRabbit alt=RepairRabbit height=45>
-</a>
-<button class=navbar-toggler type=button data-toggle=collapse data-target=#navbarSupportedContent aria-controls=navbarSupportedContent aria-expanded=false aria-label="Toggle navigation">
-<img src=/images/nav-toggle.svg title=nav-toggle alt=nav-toggle>
-</button>
-<div class="collapse navbar-collapse" id=navbarSupportedContent>
-<ul class="navbar-nav mr-auto">
-<li class=nav-item>
-<a class=nav-link href=/#features title=Features><span>Features</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/#businesses title=businesses><span>Businesses</span></a>
-</li>
-<li class=nav-item>
-<a class="nav-link d-block d-lg-none d-xl-block" href=/#why title="Why RepairRabbit"><span>Why</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/#pricing title=Pricing><span>Pricing</span></a>
-</li>
-<li class=nav-item>
-<a class="nav-link d-block d-lg-none d-xl-block" href=/#faqs title=FAQs><span>FAQs</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/blog title=Blog><span>Blog</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=https://kb.repairrabbit.co/ rel=noopener target=_blank title=Knowledgebase><span>Knowledge Base</span></a>
-</li>
-<li class=nav-item>
-<a class="nav-link btn-link display-flex al_center" href=https://demo.repairrabbit.co/admin rel=noopener target=_blank title="RepairRabbit Demo">
-<button type=button class="btn btn-try-free-herounit">Try it Free</button>
-</a>
-</li>
-<li class=nav-item>
-<a class="nav-link btn-link display-flex al_center" href="mailto:contact@repairrabbit.co?subject=Query of RepairRabbit" rel=noopener target=_blank title="contact us">
-<button type=button class="btn b-bc-y">Contact Us</button>
-</a>
-</li>
-</ul>
-</div>
-</div>
+
+  <body>
+    
+    
+    
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/dev-docs.repairrabbit.co\/blog\/repairrabbit-api-is-out-now\/"
+      },
+      "headline": "RepairRabbit API Is Out Now!",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/dev-docs.repairrabbit.co\/images\/blogs\/repair-rabbit-api-out-now.jpg",
+        "height": 1920,
+        "width": 1271
+      },
+      "datePublished": "2018-09-14 12:07:03 \u002b0530 \u002b0530",
+      "dateModified": "2018-09-14 12:07:03 \u002b0530 \u002b0530",
+      "author": {
+        "@type": "Person",
+        "name": "RepairRabbit"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RepairRabbit",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.repairrabbit.co/images/logo.png",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "description": "APIs play an important role in managing, transferring your data, and working on other manual processes. They also help you coordinate with other systems. And in a repair business, there are multiple factors to look after like - tickets, appointments, customer data, employee data, etc. Thus we\u0026rsquo;ve been working on RepairRabbit API since long and finally, it has been launched!\nLet\u0026rsquo;s see how it will be useful for your repair business   It\u0026rsquo;s now easy to integrate with other softwares for securing and transferring your data to the RepairRabbit."
+    }
+    </script>
+    <script  type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "RepairRabbit",
+            "item": "https:\/\/dev-docs.repairrabbit.co\/"
+          },
+          
+          
+            
+              
+                
+                
+                
+                  {
+                    "@type": "ListItem",
+                    "position":  2 ,
+                    "name": "blog",
+                    "item": "https:\/\/dev-docs.repairrabbit.co\/blog\/"
+                  },
+                
+              
+          
+            
+              
+                
+                
+                
+                  {
+                    "@type": "ListItem",
+                    "position":  3 ,
+                    "name": "RepairRabbit API Is Out Now!",
+                    "item": "https:\/\/dev-docs.repairrabbit.co\/blog\/repairrabbit-api-is-out-now\/"
+                  }
+                
+              
+          
+            
+              
+          
+        ]
+      }
+    </script>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light position-sticky navbar-custom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/" title="RepairRabbit">
+      <img src="/images/logo.png" title="RepairRabbit" alt="RepairRabbit" height="45" />
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <img src="/images/nav-toggle.svg" title="nav-toggle" alt="nav-toggle" />
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/#features" title="Features"><span>Features</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/#businesses" title="businesses"><span>Businesses</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link d-block d-lg-none d-xl-block" href="/#why" title="Why RepairRabbit"><span>Why</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/#pricing" title="Pricing"><span>Pricing</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link d-block d-lg-none d-xl-block" href="/#faqs" title="FAQs"><span>FAQs</span></a>
+        </li>
+        <li class="nav-item ">
+          <a class="nav-link" href="/blog" title="Blog"><span>Blog</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://kb.repairrabbit.co/" rel="noopener" target="_blank" title="Knowledgebase"><span>Knowledge Base</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn-link display-flex al_center" href="https://demo.repairrabbit.co/admin" rel="noopener" target="_blank" title="RepairRabbit Demo">
+            <button type="button" class="btn btn-try-free-herounit">Try it Free</button>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link btn-link display-flex al_center" href="mailto:contact@repairrabbit.co?subject=Query of RepairRabbit" rel="noopener" target="_blank" title="contact us">
+            <button type="button" class="btn b-bc-y">Contact Us</button>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
 </nav>
-<link rel=stylesheet type=text/css href=/css/markdown.css>
-<div class=container-fluid>
-<div class=row>
-<div class=col-sm-12>
-<div class=container>
-<div class=row>
-<div class=col-sm-12>
-<div id=Content>
-<div class="content_wrapper clearfix">
-<div class=sections_group>
-<div class=entry-content>
-<div class=blog_header style=margin-top:45px>
-<div class=_header>
-<nav aria-label=breadcrumb>
-<ol class=breadcrumb>
-<li class=breadcrumb-item><a href=/>home</a></li>
-<li class=breadcrumb-item><a href=https://dev-docs.repairrabbit.co/blog/>blog</a></li>
-<li class="breadcrumb-item active">repairrabbit-api-is-out-now</li>
-</ol>
-</nav>
-<h1 style=font-size:44px;line-height:54px>RepairRabbit API Is Out Now!</h1>
-<div class=blog_details>
-<span class=_auther>RepairRabbit</span>, &nbsp;
-<span class=_date>Friday, Sep 14, 2018</span>
-</div>
-</div>
-</div>
-<div class=section style=padding-top:45px;padding-bottom:45px>
-<div class="section_wrapper clearfix">
-<div class="items_group clearfix">
-<div class=blog>
-<article class="content markdown-body">
-<div>
-<p></p>
+
+    <link rel="stylesheet" type="text/css" href="/css/markdown.css">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-12">
+                <div id="Content">
+                  <div class="content_wrapper clearfix">
+                    <div class="sections_group">
+                      <div class="entry-content">
+                        
+                        <div class="blog_header" style="margin-top: 45px;">
+                          
+                          <div class="_header">
+                            <nav aria-label="breadcrumb">
+                              <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="/">home</a></li>
+                                
+                                  
+                                    
+                                      
+                                      
+                                      
+                                        <li class="breadcrumb-item"><a href="https://dev-docs.repairrabbit.co/blog/" >blog</a></li>
+                                      
+                                    
+                                
+                                  
+                                    
+                                      
+                                      
+                                      
+                                        <li class="breadcrumb-item active">repairrabbit-api-is-out-now</li>
+                                      
+                                    
+                                
+                                  
+                                    
+                                
+                              </ol>
+                            </nav>
+                            <h1 style="font-size: 44px;line-height: 54px;">RepairRabbit API Is Out Now!</h1>
+                            <div class="blog_details">
+                              <span class="_auther">RepairRabbit</span>, &nbsp;
+                              <span class="_date">Friday, Sep 14, 2018</span>
+                            </div>
+                          </div>
+                        </div>
+                        
+                        <div class="section" style="padding-top: 45px; padding-bottom:45px;">
+                          <div class="section_wrapper clearfix">
+                            <div class="items_group clearfix">
+                              <div class="blog">
+                                <article class="content markdown-body">
+                                  <div>
+                                    <p><!-- raw HTML omitted --></p>
 <p>APIs play an important role in managing, transferring your data, and working on other manual processes. They also help you coordinate with other systems. And in a repair business, there are multiple factors to look after like - tickets, appointments, customer data, employee data, etc.
 Thus we&rsquo;ve been working on RepairRabbit API since long and finally, it has been launched!</p>
-<h2 id=lets-see-how-it-will-be-useful-for-your-repair-business>Let&rsquo;s see how it will be useful for your repair business</h2>
+<h2 id="lets-see-how-it-will-be-useful-for-your-repair-business">Let&rsquo;s see how it will be useful for your repair business</h2>
 <ul>
 <li>
 <p>It&rsquo;s now easy to integrate with other softwares for securing and transferring your data to the RepairRabbit. For e.g. - You are managing your financial accounts with QuickBooks and want to integrate it with RepairRabbit, you can do the same process with the help of RepairRabbit API.</p>
@@ -148,398 +280,540 @@ Thus we&rsquo;ve been working on RepairRabbit API since long and finally, it has
 <p>RepairRabbit API is completely secure and will prevent any vulnerable activities.</p>
 </li>
 <li>
-<p>The data which RepairRabbit API provides is quite easy to adopt for the other systems thus, this proves that RepairRabbit API is compatible with any programing language and technology. And a major benefit of using RepairRabbit API is that it can help you to transfer a huge amount of data easily & quickly.</p>
+<p>The data which RepairRabbit API provides is quite easy to adopt for the other systems thus, this proves that RepairRabbit API is compatible with any programing language and technology. And a major benefit of using RepairRabbit API is that it can help you to transfer a huge amount of data easily &amp; quickly.</p>
 </li>
 </ul>
 <p>Have you installed RepairRabbit yet? If you haven&rsquo;t, get it today and manage your repair business smoothly!</p>
-<p>Contact us for pricing & purchase information <code>or</code> try RepairRabbit free.</p>
-</div>
-</article>
-</div>
-<div class=blog_assets>
-<div class=assets>
-<hr>
-<div>
-<h4>Tags</h4>
-<a class=blog_category href=/tags/feature>feature</a>
-</div>
-<br>
-<hr>
-<h4>Share</h4>
-<ul class=rrssb-buttons>
-<li class=rrssb-email>
-<a href="mailto:?Subject=RepairRabbit%20API%20Is%20Out%20Now%21 - RepairRabbit&body=https%3a%2f%2fdev-docs.repairrabbit.co%2fblog%2frepairrabbit-api-is-out-now%2f, APIs%20play%20an%20important%20role%20in%20managing%2c%20transferring%20your%20data%2c%20and%20working%20on%20other%20manual%20processes.%20They%20also%20help%20you%20coordinate%20with%20other%20systems.%20And%20in%20a%20repair%20business%2c%20there%20are%20multiple%20factors%20to%20look%20after%20like%20-%20tickets%2c%20appointments%2c%20customer%20data%2c%20employee%20data%2c%20etc.%20Thus%20we%26rsquo%3bve%20been%20working%20on%20RepairRabbit%20API%20since%20long%20and%20finally%2c%20it%20has%20been%20launched%21%0aLet%26rsquo%3bs%20see%20how%20it%20will%20be%20useful%20for%20your%20repair%20business%20%20%20It%26rsquo%3bs%20now%20easy%20to%20integrate%20with%20other%20softwares%20for%20securing%20and%20transferring%20your%20data%20to%20the%20RepairRabbit.">
-<span class=rrssb-icon><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M21.386 2.614H2.614A2.345 2.345.0 00.279 4.961l-.01 14.078a2.353 2.353.0 002.346 2.347h18.771a2.354 2.354.0 002.347-2.347V4.961a2.356 2.356.0 00-2.347-2.347zm0 4.694L12 13.174 2.614 7.308V4.961L12 10.827l9.386-5.866v2.347z"/></svg>
-</span>
-<span class=rrssb-text>email</span>
-</a>
-</li>
-<li class=rrssb-facebook>
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fdev-docs.repairrabbit.co%2fblog%2frepairrabbit-api-is-out-now%2f" class=popup>
-<span class=rrssb-icon><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29"><path d="M26.4.0H2.6C1.714.0.0 1.715.0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6.0 2.444.173 2.845.226v3.792H21.18c-1.817.0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884.0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z"/></svg>
-</span>
-<span class=rrssb-text>facebook</span>
-</a>
-</li>
-<li class=rrssb-linkedin>
-<a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fdev-docs.repairrabbit.co%2fblog%2frepairrabbit-api-is-out-now%2f&title=RepairRabbit%20API%20Is%20Out%20Now%21&summary=APIs%20play%20an%20important%20role%20in%20managing%2c%20transferring%20your%20data%2c%20and%20working%20on%20other%20manual%20processes.%20They%20also%20help%20you%20coordinate%20with%20other%20systems.%20And%20in%20a%20repair%20business%2c%20there%20are%20multiple%20factors%20to%20look%20after%20like%20-%20tickets%2c%20appointments%2c%20customer%20data%2c%20employee%20data%2c%20etc.%20Thus%20we%26rsquo%3bve%20been%20working%20on%20RepairRabbit%20API%20since%20long%20and%20finally%2c%20it%20has%20been%20launched%21%0aLet%26rsquo%3bs%20see%20how%20it%20will%20be%20useful%20for%20your%20repair%20business%20%20%20It%26rsquo%3bs%20now%20easy%20to%20integrate%20with%20other%20softwares%20for%20securing%20and%20transferring%20your%20data%20to%20the%20RepairRabbit." class=popup>
-<span class=rrssb-icon><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M25.424 15.887v8.447h-4.896v-7.882c0-1.98-.71-3.33-2.48-3.33-1.354.0-2.158.91-2.514 1.802-.13.315-.162.753-.162 1.194v8.216h-4.9s.067-13.35.0-14.73h4.9v2.087c-.01.017-.023.033-.033.05h.032v-.05c.65-1.002 1.812-2.435 4.414-2.435 3.222.0 5.638 2.106 5.638 6.632zM5.348 2.5c-1.676.0-2.772 1.093-2.772 2.54.0 1.42 1.066 2.538 2.717 2.546h.032c1.71.0 2.77-1.132 2.77-2.546C8.056 3.593 7.02 2.5 5.344 2.5h.005zm-2.48 21.834h4.896V9.604H2.867v14.73z"/></svg>
-</span>
-<span class=rrssb-text>linkedin</span>
-</a>
-</li>
-<li class=rrssb-twitter>
-<a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fdev-docs.repairrabbit.co%2fblog%2frepairrabbit-api-is-out-now%2f" class=popup>
-<span class=rrssb-icon><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62A15.093 15.093.0 011.11 22.3c2.702.18 5.375-.648 7.507-2.32a5.417 5.417.0 01-4.49-3.64c.802.13 1.62.077 2.4-.154a5.416 5.416.0 01-4.412-5.11 5.43 5.43.0 002.168.387A5.416 5.416.0 012.89 4.498a15.09 15.09.0 0010.913 5.573 5.185 5.185.0 013.434-6.48 5.18 5.18.0 015.546 1.682 9.076 9.076.0 003.33-1.317 5.038 5.038.0 01-2.4 2.942 9.068 9.068.0 003.02-.85 5.05 5.05.0 01-2.48 2.71z"/></svg>
-</span>
-<span class=rrssb-text>twitter</span>
-</a>
-</li>
-<li class=rrssb-googleplus>
-<a href="https://plus.google.com/share?url=https%3a%2f%2fdev-docs.repairrabbit.co%2fblog%2frepairrabbit-api-is-out-now%2f" class=popup>
-<span class=rrssb-icon><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M21 8.29h-1.95v2.6h-2.6v1.82h2.6v2.6H21v-2.6h2.6v-1.885H21V8.29zM7.614 10.306v2.925h3.9c-.26 1.69-1.755 2.925-3.9 2.925-2.34.0-4.29-2.016-4.29-4.354s1.885-4.353 4.29-4.353c1.104.0 2.014.326 2.794 1.105l2.08-2.08c-1.3-1.17-2.924-1.883-4.874-1.883C3.65 4.586.4 7.835.4 11.8s3.25 7.212 7.214 7.212c4.224.0 6.953-2.988 6.953-7.082.0-.52-.065-1.104-.13-1.624H7.614z"/></svg>
-</span>
-<span class=rrssb-text>google+</span>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<hr>
-<div class="blogs_list j_c_c f_w_w">
-<div class=_blog>
-<a href=/blog/the-biggest-error-in-your-repair-business/>
-<div class=blog_info>
-<date>8 January 2019</date>
-<h5 class="title m-0">
-The Biggest Error In Your Repair Business
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/the-best-management-software-for-repair-businesses/>
-<div class=blog_info>
-<date>21 December 2018</date>
-<h5 class="title m-0">
-The Best Management Software For Repair Businesses
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/4-things-that-every-repair-business-owner-should-keep-in-mind/>
-<div class=blog_info>
-<date>5 December 2018</date>
-<h5 class="title m-0">
-4 Important Points That Every Repair Business Owner Should Keep In Mind
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/looking-forward-to-start-a-new-repair-business-here-are-some-tips-and-tricks/>
-<div class=blog_info>
-<date>30 November 2018</date>
-<h5 class="title m-0">
-Looking Forward To Start A Repair Business? Here Are Some Tips & Tricks For You.
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/this-is-how-using-a-management-software-will-help-you/>
-<div class=blog_info>
-<date>28 November 2018</date>
-<h5 class="title m-0">
-This Is How Using A Management Software Will Help You
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/major-mistakes-that-all-the-repair-businesses-should-avoid/>
-<div class=blog_info>
-<date>23 November 2018</date>
-<h5 class="title m-0">
-Major Mistakes That All The Repair Businesses Should Avoid
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/how-to-retain-customers-and-earn-brand-loyaly/>
-<div class=blog_info>
-<date>20 November 2018</date>
-<h5 class="title m-0">
-How To Retain Customers And Earn Brand Loyalty?
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/4-amazing-tips-to-improve-organisation-and-increase-sales-of-your-repair-business/>
-<div class=blog_info>
-<date>14 November 2018</date>
-<h5 class="title m-0">
-4 Amazing Tips To Improve Organisation And Increase Revenue Of Your Repair Business
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/effects-of-bad-scheduling-on-your-repair-business/>
-<div class=blog_info>
-<date>2 November 2018</date>
-<h5 class="title m-0">
-Effects Of Bad Scheduling On Your Repair Business
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/how-is-digitalized-management-system-better-than-traditional-ones/>
-<div class=blog_info>
-<date>1 November 2018</date>
-<h5 class="title m-0">
-How Is Digitalized Management System Better Than Traditional Ones?
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/improve-cutomer-services-by-adopting-digitalized-management-system/>
-<div class=blog_info>
-<date>30 October 2018</date>
-<h5 class="title m-0">
-Improve Customer Services By Adopting Digitalized Management System.
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/how-to-avoid-mismanagement-and-its-disastrous-effects/>
-<div class=blog_info>
-<date>26 October 2018</date>
-<h5 class="title m-0">
-How To Avoid Mismanagement And Its Disastrous Effects?
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/effects-of-mismanagement-on-a-repair-business/>
-<div class=blog_info>
-<date>25 October 2018</date>
-<h5 class="title m-0">
-Effects of Mismanagement On A Repair Business
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/mismanagement-in-a-repair-business-and-its-causes/>
-<div class=blog_info>
-<date>23 October 2018</date>
-<h5 class="title m-0">
-Mismanagement In A Repair Business And Its Causes
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/how-does-online-appointment-scheduling-leads-to-advancement-of-a-repair-business/>
-<div class=blog_info>
-<date>19 October 2018</date>
-<h5 class="title m-0">
-How does Online Appointment Scheduling Leads to Advancement of a Repair Business?
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/role-of-appointments-in-a-repair-business/>
-<div class=blog_info>
-<date>17 October 2018</date>
-<h5 class="title m-0">
-Role of Appointments in a Repair Businesses
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/one-stop-solution-for-repair-businesses/>
-<div class=blog_info>
-<date>10 October 2018</date>
-<h5 class="title m-0">
-One Stop Solution For Repair Businesses
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/integration-of-repairrabbit-with-other-softwares/>
-<div class=blog_info>
-<date>24 September 2018</date>
-<h5 class="title m-0">
-Integration Of RepairRabbit With Other Softwares
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/everthing-you-need-to-know-about-repairrabbit-api/>
-<div class=blog_info>
-<date>17 September 2018</date>
-<h5 class="title m-0">
-Everthing You Need to Know About RepairRabbit API
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/new-big-feature-coming-soon-repairrabbit-apis/>
-<div class=blog_info>
-<date>10 September 2018</date>
-<h5 class="title m-0">
-New Big Feature Coming Soon - RepairRabbit API
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/get-daily-weekly-and-monthly-revenue-report-using-repiarrabbit/>
-<div class=blog_info>
-<date>30 August 2018</date>
-<h5 class="title m-0">
-Get Daily, Weekly And Monthly Revenue Report Using RepiarRabbit
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/quick-access-on-business-activities-with-repairrabbit-dashboard/>
-<div class=blog_info>
-<date>3 August 2018</date>
-<h5 class="title m-0">
-Quick Access on Business Activities With RepairRabbit Dashboard
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/easy-employee-management/>
-<div class=blog_info>
-<date>9 July 2018</date>
-<h5 class="title m-0">
-Easy Employee Management
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/plan-your-work-with-repairrabbit-calendar/>
-<div class=blog_info>
-<date>5 July 2018</date>
-<h5 class="title m-0">
-Plan Your Work With RepairRabbit Calendar
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/businesses-who-can-take-advantage-of-repairrabbit/>
-<div class=blog_info>
-<date>26 June 2018</date>
-<h5 class="title m-0">
-Businesses Who Can Take Advantage Of RepairRabbit Software
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/what-is-ticket-in-repairrabbit/>
-<div class=blog_info>
-<date>21 June 2018</date>
-<h5 class="title m-0">
-What Is Ticket in RepairRabbit?
-</h5>
-</div>
-</a>
-</div>
-<div class=_blog>
-<a href=/blog/introduction-to-repairrabbit/>
-<div class=blog_info>
-<date>1 May 2018</date>
-<h5 class="title m-0">
-Introduction To RepairRabbit
-</h5>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<footer class="pt-5 pb-4">
-<section class=container>
-<div>
-<div class="col-xs-12 d_f j_c_s_b f_w_w">
-<div>
-<img src=/images/logo.png height=40 style=text-align:right title=RepairRabbit alt=RepairRabbit>
-<p>
-Enhance your repair business with RepairRabbit
-</p>
-</div>
-<div>
-<h4>Let's Connect</h4>
-<a href=https://www.facebook.com/RepairRabbitCo/ title="RepairRabbit facebook page" style=text-decoration:none rel=noopener target=_blank><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill:#1dc6bc"><path d="M19 0H5C2.239.0.0 2.239.0 5v14c0 2.761 2.239 5 5 5h14c2.762.0 5-2.239 5-5V5c0-2.761-2.238-5-5-5zm-3 7h-1.924C13.461 7 13 7.252 13 7.889V9h3l-.238 3H13v8h-3v-8H8V9h2V7.077C10 5.055 11.064 4 13.461 4H16v3z"/></svg>
-</a>
-<a href=https://twitter.com/repairrabbitco title="RepairRabbit twitter page" style=text-decoration:none rel=noopener target=_blank><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill:#1dc6bc"><path d="M19 0H5C2.239.0.0 2.239.0 5v14c0 2.761 2.239 5 5 5h14c2.762.0 5-2.239 5-5V5c0-2.761-2.238-5-5-5zm-.139 9.237c.209 4.617-3.234 9.765-9.33 9.765-1.854.0-3.579-.543-5.032-1.475 1.742.205 3.48-.278 4.86-1.359-1.437-.027-2.649-.976-3.066-2.28.515.098 1.021.069 1.482-.056-1.579-.317-2.668-1.739-2.633-3.26.442.246.949.394 1.486.411-1.461-.977-1.875-2.907-1.016-4.383 1.619 1.986 4.038 3.293 6.766 3.43C11.899 7.977 13.458 6 15.577 6c.943.0 1.797.398 2.395 1.037.748-.147 1.451-.42 2.086-.796-.246.767-.766 1.41-1.443 1.816.664-.08 1.297-.256 1.885-.517-.439.656-.996 1.234-1.639 1.697z"/></svg>
-</a>
-<a href=https://www.linkedin.com/company/repairrabbit/ title="RepairRabbit linkedin page" style=text-decoration:none rel=noopener target=_blank><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill:#1dc6bc"><path d="M19 0H5C2.239.0.0 2.239.0 5v14c0 2.761 2.239 5 5 5h14c2.762.0 5-2.239 5-5V5c0-2.761-2.238-5-5-5zM8 19H5V8h3v11zM6.5 6.732c-.966.0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zM20 19h-3v-5.604c0-3.368-4-3.113-4 0V19h-3V8h3v1.765c1.396-2.586 7-2.777 7 2.476V19z"/></svg>
-</a>
-<a href="https://www.instagram.com/repairrabbit/?hl=en" title="RepairRabbit instagram page" style=text-decoration:none rel=noopener target=_blank><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" style="fill:#1dc6bc"><path d="M12 0C8.74.0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333.0 8.74.0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26.0 12 0zm0 2.16c3.203.0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211.0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844.0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405.0-6.162 2.76-6.162 6.162.0 3.405 2.76 6.162 6.162 6.162 3.405.0 6.162-2.76 6.162-6.162.0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21.0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795.0-1.44-.646-1.44-1.44.0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z"/></svg>
-</a>
-</div>
-<div>
-<h4>Stay in Touch</h4>
-<div class=getInTouch>
-<form id=getInTouch>
-<div class="input-group mb-3">
-<input type=email name=email class=form-control placeholder=Email aria-label="stay in touch" aria-describedby="stay in touch" required>
-<div class=input-group-append>
-<button class="btn nput-group-text b-bc-b" type=submit>Let's Start</button>
-</div>
-</div>
-</form>
-<p id=subscribeMsg></p>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div class="col-xs-12 d_f j_c_s_b f_w_w">
-<p class=m-0>&copy; <span id=cYear></span> RepairRabbit</p>
-<a class="m-0 bc-b-hover" href=/license-agreement/ title="license agreement">License Agreement</a>
-<a class="m-0 bc-b-hover" href=/cookie-policy/ title="cookie policy">Cookie Policy</a>
-</div>
-</div>
-</section>
+<!-- raw HTML omitted -->
+<p><!-- raw HTML omitted -->Contact us<!-- raw HTML omitted --> for pricing &amp; purchase information <code>or</code> try RepairRabbit <!-- raw HTML omitted -->free<!-- raw HTML omitted -->.</p>
+<!-- raw HTML omitted -->
+
+                                    
+                                  </div>
+                                </article>
+                              </div>
+                              <div class="blog_assets">
+                                <div class="assets">
+                                  
+                                  <hr>
+                                  <div>
+                                    <h4>Tags</h4>
+                                    
+                                    <a  class="blog_category" href='/tags/feature'>feature</a>
+                                    
+                                  </div>
+                                  <br>
+                                  
+                                  
+                                  <hr>
+                                  <h4>Share</h4>
+                                  <ul class="rrssb-buttons">
+                                    <li class="rrssb-email">
+                                      <a href="mailto:?Subject=RepairRabbit%20API%20Is%20Out%20Now%21 - RepairRabbit&body=https%3a%2f%2fdev-docs.repairrabbit.co%2fblog%2frepairrabbit-api-is-out-now%2f, APIs%20play%20an%20important%20role%20in%20managing%2c%20transferring%20your%20data%2c%20and%20working%20on%20other%20manual%20processes.%20They%20also%20help%20you%20coordinate%20with%20other%20systems.%20And%20in%20a%20repair%20business%2c%20there%20are%20multiple%20factors%20to%20look%20after%20like%20-%20tickets%2c%20appointments%2c%20customer%20data%2c%20employee%20data%2c%20etc.%20Thus%20we%26rsquo%3bve%20been%20working%20on%20RepairRabbit%20API%20since%20long%20and%20finally%2c%20it%20has%20been%20launched%21%0aLet%26rsquo%3bs%20see%20how%20it%20will%20be%20useful%20for%20your%20repair%20business%20%20%20It%26rsquo%3bs%20now%20easy%20to%20integrate%20with%20other%20softwares%20for%20securing%20and%20transferring%20your%20data%20to%20the%20RepairRabbit.">
+                                        <span class="rrssb-icon">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                            <path d="M21.386 2.614H2.614A2.345 2.345 0 0 0 .279 4.961l-.01 14.078a2.353 2.353 0 0 0 2.346 2.347h18.771a2.354 2.354 0 0 0 2.347-2.347V4.961a2.356 2.356 0 0 0-2.347-2.347zm0 4.694L12 13.174 2.614 7.308V4.961L12 10.827l9.386-5.866v2.347z"/>
+                                          </svg>
+                                        </span>
+                                        <span class="rrssb-text">email</span>
+                                      </a>
+                                    </li>
+                                    <li class="rrssb-facebook">
+                                      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fdev-docs.repairrabbit.co%2fblog%2frepairrabbit-api-is-out-now%2f" class="popup">
+                                        <span class="rrssb-icon">
+                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29">
+                                            <path d="M26.4 0H2.6C1.714 0 0 1.715 0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6 0 2.444.173 2.845.226v3.792H21.18c-1.817 0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884 0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z"/>
+                                          </svg>
+                                        </span>
+                                        <span class="rrssb-text">facebook</span>
+                                      </a>
+                                    </li>
+                                    <li class="rrssb-linkedin">
+                                      <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fdev-docs.repairrabbit.co%2fblog%2frepairrabbit-api-is-out-now%2f&amp;title=RepairRabbit%20API%20Is%20Out%20Now%21&amp;summary=APIs%20play%20an%20important%20role%20in%20managing%2c%20transferring%20your%20data%2c%20and%20working%20on%20other%20manual%20processes.%20They%20also%20help%20you%20coordinate%20with%20other%20systems.%20And%20in%20a%20repair%20business%2c%20there%20are%20multiple%20factors%20to%20look%20after%20like%20-%20tickets%2c%20appointments%2c%20customer%20data%2c%20employee%20data%2c%20etc.%20Thus%20we%26rsquo%3bve%20been%20working%20on%20RepairRabbit%20API%20since%20long%20and%20finally%2c%20it%20has%20been%20launched%21%0aLet%26rsquo%3bs%20see%20how%20it%20will%20be%20useful%20for%20your%20repair%20business%20%20%20It%26rsquo%3bs%20now%20easy%20to%20integrate%20with%20other%20softwares%20for%20securing%20and%20transferring%20your%20data%20to%20the%20RepairRabbit." class="popup">
+                                        <span class="rrssb-icon">
+                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28">
+                                            <path d="M25.424 15.887v8.447h-4.896v-7.882c0-1.98-.71-3.33-2.48-3.33-1.354 0-2.158.91-2.514 1.802-.13.315-.162.753-.162 1.194v8.216h-4.9s.067-13.35 0-14.73h4.9v2.087c-.01.017-.023.033-.033.05h.032v-.05c.65-1.002 1.812-2.435 4.414-2.435 3.222 0 5.638 2.106 5.638 6.632zM5.348 2.5c-1.676 0-2.772 1.093-2.772 2.54 0 1.42 1.066 2.538 2.717 2.546h.032c1.71 0 2.77-1.132 2.77-2.546C8.056 3.593 7.02 2.5 5.344 2.5h.005zm-2.48 21.834h4.896V9.604H2.867v14.73z"/>
+                                          </svg>
+                                        </span>
+                                        <span class="rrssb-text">linkedin</span>
+                                      </a>
+                                    </li>
+                                    <li class="rrssb-twitter">
+                                      <a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fdev-docs.repairrabbit.co%2fblog%2frepairrabbit-api-is-out-now%2f"
+                                        class="popup">
+                                        <span class="rrssb-icon">
+                                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28">
+                                            <path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62a15.093 15.093 0 0 1-8.86-2.32c2.702.18 5.375-.648 7.507-2.32a5.417 5.417 0 0 1-4.49-3.64c.802.13 1.62.077 2.4-.154a5.416 5.416 0 0 1-4.412-5.11 5.43 5.43 0 0 0 2.168.387A5.416 5.416 0 0 1 2.89 4.498a15.09 15.09 0 0 0 10.913 5.573 5.185 5.185 0 0 1 3.434-6.48 5.18 5.18 0 0 1 5.546 1.682 9.076 9.076 0 0 0 3.33-1.317 5.038 5.038 0 0 1-2.4 2.942 9.068 9.068 0 0 0 3.02-.85 5.05 5.05 0 0 1-2.48 2.71z"/>
+                                          </svg>
+                                        </span>
+                                        <span class="rrssb-text">twitter</span>
+                                      </a>
+                                    </li>
+                                    <li class="rrssb-googleplus">
+                                      <a href="https://plus.google.com/share?url=https%3a%2f%2fdev-docs.repairrabbit.co%2fblog%2frepairrabbit-api-is-out-now%2f" class="popup">
+                                        <span class="rrssb-icon">
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                            <path d="M21 8.29h-1.95v2.6h-2.6v1.82h2.6v2.6H21v-2.6h2.6v-1.885H21V8.29zM7.614 10.306v2.925h3.9c-.26 1.69-1.755 2.925-3.9 2.925-2.34 0-4.29-2.016-4.29-4.354s1.885-4.353 4.29-4.353c1.104 0 2.014.326 2.794 1.105l2.08-2.08c-1.3-1.17-2.924-1.883-4.874-1.883C3.65 4.586.4 7.835.4 11.8s3.25 7.212 7.214 7.212c4.224 0 6.953-2.988 6.953-7.082 0-.52-.065-1.104-.13-1.624H7.614z"/>
+                                          </svg>
+                                        </span>
+                                        <span class="rrssb-text">google+</span>
+                                      </a>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <hr>
+                <div class="blogs_list j_c_c f_w_w">
+                  
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/the-biggest-error-in-your-repair-business/">
+                          <div class="blog_info">
+                            <date>8 January 2019</date>
+                            <h5 class="title m-0">
+                              The Biggest Error In Your Repair Business
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/the-best-management-software-for-repair-businesses/">
+                          <div class="blog_info">
+                            <date>21 December 2018</date>
+                            <h5 class="title m-0">
+                              The Best Management Software For Repair Businesses
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/4-things-that-every-repair-business-owner-should-keep-in-mind/">
+                          <div class="blog_info">
+                            <date>5 December 2018</date>
+                            <h5 class="title m-0">
+                              4 Important Points That Every Repair Business Owner Should Keep In Mind
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/looking-forward-to-start-a-new-repair-business-here-are-some-tips-and-tricks/">
+                          <div class="blog_info">
+                            <date>30 November 2018</date>
+                            <h5 class="title m-0">
+                              Looking Forward To Start A Repair Business? Here Are Some Tips &amp; Tricks For You.
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/this-is-how-using-a-management-software-will-help-you/">
+                          <div class="blog_info">
+                            <date>28 November 2018</date>
+                            <h5 class="title m-0">
+                              This Is How Using A Management Software Will Help You
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/major-mistakes-that-all-the-repair-businesses-should-avoid/">
+                          <div class="blog_info">
+                            <date>23 November 2018</date>
+                            <h5 class="title m-0">
+                              Major Mistakes That All The Repair Businesses Should Avoid
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/how-to-retain-customers-and-earn-brand-loyaly/">
+                          <div class="blog_info">
+                            <date>20 November 2018</date>
+                            <h5 class="title m-0">
+                              How To Retain Customers And Earn Brand Loyalty?
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/4-amazing-tips-to-improve-organisation-and-increase-sales-of-your-repair-business/">
+                          <div class="blog_info">
+                            <date>14 November 2018</date>
+                            <h5 class="title m-0">
+                              4 Amazing Tips To Improve Organisation And Increase Revenue Of Your Repair Business
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/effects-of-bad-scheduling-on-your-repair-business/">
+                          <div class="blog_info">
+                            <date>2 November 2018</date>
+                            <h5 class="title m-0">
+                              Effects Of Bad Scheduling On Your Repair Business
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/how-is-digitalized-management-system-better-than-traditional-ones/">
+                          <div class="blog_info">
+                            <date>1 November 2018</date>
+                            <h5 class="title m-0">
+                              How Is Digitalized Management System Better Than Traditional Ones?
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/improve-cutomer-services-by-adopting-digitalized-management-system/">
+                          <div class="blog_info">
+                            <date>30 October 2018</date>
+                            <h5 class="title m-0">
+                              Improve Customer Services By Adopting Digitalized Management System.
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/how-to-avoid-mismanagement-and-its-disastrous-effects/">
+                          <div class="blog_info">
+                            <date>26 October 2018</date>
+                            <h5 class="title m-0">
+                              How To Avoid Mismanagement And Its Disastrous Effects?
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/effects-of-mismanagement-on-a-repair-business/">
+                          <div class="blog_info">
+                            <date>25 October 2018</date>
+                            <h5 class="title m-0">
+                              Effects of Mismanagement On A Repair Business
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/mismanagement-in-a-repair-business-and-its-causes/">
+                          <div class="blog_info">
+                            <date>23 October 2018</date>
+                            <h5 class="title m-0">
+                              Mismanagement In A Repair Business And Its Causes
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/how-does-online-appointment-scheduling-leads-to-advancement-of-a-repair-business/">
+                          <div class="blog_info">
+                            <date>19 October 2018</date>
+                            <h5 class="title m-0">
+                              How does Online Appointment Scheduling Leads to Advancement of a Repair Business?
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/role-of-appointments-in-a-repair-business/">
+                          <div class="blog_info">
+                            <date>17 October 2018</date>
+                            <h5 class="title m-0">
+                              Role of Appointments in a Repair Businesses
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/one-stop-solution-for-repair-businesses/">
+                          <div class="blog_info">
+                            <date>10 October 2018</date>
+                            <h5 class="title m-0">
+                              One Stop Solution For Repair Businesses
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/integration-of-repairrabbit-with-other-softwares/">
+                          <div class="blog_info">
+                            <date>24 September 2018</date>
+                            <h5 class="title m-0">
+                              Integration Of RepairRabbit With Other Softwares
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/everthing-you-need-to-know-about-repairrabbit-api/">
+                          <div class="blog_info">
+                            <date>17 September 2018</date>
+                            <h5 class="title m-0">
+                              Everthing You Need to Know About RepairRabbit API
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/new-big-feature-coming-soon-repairrabbit-apis/">
+                          <div class="blog_info">
+                            <date>10 September 2018</date>
+                            <h5 class="title m-0">
+                              New Big Feature Coming Soon - RepairRabbit API
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/get-daily-weekly-and-monthly-revenue-report-using-repiarrabbit/">
+                          <div class="blog_info">
+                            <date>30 August 2018</date>
+                            <h5 class="title m-0">
+                              Get Daily, Weekly And Monthly Revenue Report Using RepiarRabbit
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/quick-access-on-business-activities-with-repairrabbit-dashboard/">
+                          <div class="blog_info">
+                            <date>3 August 2018</date>
+                            <h5 class="title m-0">
+                              Quick Access on Business Activities With RepairRabbit Dashboard
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/easy-employee-management/">
+                          <div class="blog_info">
+                            <date>9 July 2018</date>
+                            <h5 class="title m-0">
+                              Easy Employee Management
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/plan-your-work-with-repairrabbit-calendar/">
+                          <div class="blog_info">
+                            <date>5 July 2018</date>
+                            <h5 class="title m-0">
+                              Plan Your Work With RepairRabbit Calendar
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/businesses-who-can-take-advantage-of-repairrabbit/">
+                          <div class="blog_info">
+                            <date>26 June 2018</date>
+                            <h5 class="title m-0">
+                              Businesses Who Can Take Advantage Of RepairRabbit Software
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/what-is-ticket-in-repairrabbit/">
+                          <div class="blog_info">
+                            <date>21 June 2018</date>
+                            <h5 class="title m-0">
+                              What Is Ticket in RepairRabbit?
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                      <div class="_blog">
+                        <a href="/blog/introduction-to-repairrabbit/">
+                          <div class="blog_info">
+                            <date>1 May 2018</date>
+                            <h5 class="title m-0">
+                              Introduction To RepairRabbit
+                            </h5>
+                          </div>
+                        </a>
+                      </div>
+                    
+                  
+                    
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="pt-5 pb-4">
+  <section class="container">
+    <div>
+      <div class="col-xs-12 d_f j_c_s_b f_w_w">
+        <div>
+          <img src="/images/logo.png" height="40" style="text-align: right;" title="RepairRabbit" alt="RepairRabbit">
+          <p>
+            Enhance your repair business with RepairRabbit
+          </p>
+        </div>
+        <div>
+          <h4>Let's Connect</h4>
+          <a href="https://www.facebook.com/RepairRabbitCo/" title="RepairRabbit facebook page" style="text-decoration: none;" rel="noopener" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style=";fill:#1dc6bc;"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-3 7h-1.924c-.615 0-1.076.252-1.076.889v1.111h3l-.238 3h-2.762v8h-3v-8h-2v-3h2v-1.923c0-2.022 1.064-3.077 3.461-3.077h2.539v3z"/></svg>
+          </a>
+          <a href="https://twitter.com/repairrabbitco" title="RepairRabbit twitter page" style="text-decoration: none;" rel="noopener" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style=";fill:#1dc6bc;"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-.139 9.237c.209 4.617-3.234 9.765-9.33 9.765-1.854 0-3.579-.543-5.032-1.475 1.742.205 3.48-.278 4.86-1.359-1.437-.027-2.649-.976-3.066-2.28.515.098 1.021.069 1.482-.056-1.579-.317-2.668-1.739-2.633-3.26.442.246.949.394 1.486.411-1.461-.977-1.875-2.907-1.016-4.383 1.619 1.986 4.038 3.293 6.766 3.43-.479-2.053 1.08-4.03 3.199-4.03.943 0 1.797.398 2.395 1.037.748-.147 1.451-.42 2.086-.796-.246.767-.766 1.41-1.443 1.816.664-.08 1.297-.256 1.885-.517-.439.656-.996 1.234-1.639 1.697z"/></svg>
+          </a>
+          
+          <a href="https://www.linkedin.com/company/repairrabbit/" title="RepairRabbit linkedin page" style="text-decoration: none;" rel="noopener" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style=";fill:#1dc6bc;"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+          </a>
+          <a href="https://www.instagram.com/repairrabbit/?hl=en" title="RepairRabbit instagram page" style="text-decoration: none;" rel="noopener" target="_blank">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" style="fill:#1dc6bc;"><path  d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z"/></svg>
+          </a>
+        </div>
+        <div>
+          <h4>Stay in Touch</h4>
+          <div class="getInTouch">
+            <form id="getInTouch">
+              <div class="input-group mb-3">
+                <input type="email" name="email" class="form-control" placeholder="Email" aria-label="stay in touch" aria-describedby="stay in touch" required="true">
+                <div class="input-group-append">
+                  <button class="btn nput-group-text b-bc-b" type="submit">Let's Start</button>
+                </div>
+              </div>
+              
+            </form>
+            <p id="subscribeMsg"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="col-xs-12 d_f j_c_s_b f_w_w">
+        <p class="m-0">&copy; <span id="cYear"></span> RepairRabbit</p>
+        <a class="m-0 bc-b-hover" href="/license-agreement/" title="license agreement">License Agreement</a>
+        <a class="m-0 bc-b-hover" href="/cookie-policy/" title="cookie policy">Cookie Policy</a>
+      </div>
+    </div>
+  </section>
 </footer>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga('create','UA-112062782-1','auto'),ga('set','anonymizeIp',!0),ga('send','pageview'))</script>
-<script async src=https://www.google-analytics.com/analytics.js></script>
-<script src=/dist/index.min.js async></script>
-<script>(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)},a._hjSettings={hjid:176092,hjsv:6},d=c.getElementsByTagName('head')[0],b=c.createElement('script'),b.async=1,b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv,d.appendChild(b)})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=')</script>
-</body>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-112062782-1', 'auto');
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+    
+<script src="/dist/index.min.js" async="true"></script>
+
+<script>
+  (function(h,o,t,j,a,r){
+    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    h._hjSettings={hjid:176092,hjsv:6};
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+  })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+
+  </body>
 </html>
