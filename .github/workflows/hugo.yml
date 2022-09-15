@@ -23,8 +23,14 @@ jobs:
           hugo-version: '0.87.0'
           # extended: true
 
+      - name: Setup Npm
+        run: npm install
+
+      - name: RUN
+        run: npm run build
+
       - name: Build
-        run: hugo --minify
+        run: hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
