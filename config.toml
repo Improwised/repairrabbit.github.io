@@ -4,12 +4,10 @@ languageCode = "en-us"
 title = "RepairRabbit"
 themesDir = "themes"
 theme = "rr-1"
-googleAnalytics = "UA-112062782-1"
+googleAnalytics = "G-2VM9Z9STTQ"
 [taxonomies]
   tag = "tags"
   category = "categories"
 [params]
-  env = "production"
+  env = "development"
   tagLine = "Enhance your repair business with RepairRabbit"
-[privacy.googleAnalytics]
-  anonymizeIP = true
