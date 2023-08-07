@@ -39,6 +39,6 @@ Online scheduling systems are more than just calendars, they enable detailed rep
 
 <br>
 
-RepairRabbit is such a platform where you can supervise your repair business effectively. From `Online Appointment Scheduling` to keeping an eye on your `inventory`, RepairRabbit allows multiple features, which can be very beneficial for repair businesses. For more information please <a href="mailto:contact@repairrabbit.co?subject=Query of RepairRabbit" target="_blank">Contact us</a> `or` try RepairRabbit <a href="https://demo.repairrabbit.co/admin" rel="noopener" target="_blank" title="RepairRabbit Demo">free</a>.
+RepairRabbit is such a platform where you can supervise your repair business effectively. From `Online Appointment Scheduling` to keeping an eye on your `inventory`, RepairRabbit allows multiple features, which can be very beneficial for repair businesses. For more information please <a href="mailto:sales@repairrabbit.co?subject=Query of RepairRabbit" target="_blank">Contact us</a> `or` try RepairRabbit <a href="https://demo.repairrabbit.co/admin" rel="noopener" target="_blank" title="RepairRabbit Demo">free</a>.
 
 <br>
