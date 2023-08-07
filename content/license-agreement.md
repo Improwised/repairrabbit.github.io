@@ -65,7 +65,7 @@ The Author reserves the right at any time and from time to time to modify or dis
 
 #### Delivery
 
-After the Author has successfully received your payment, your Software purchase will become activated and you will be able to install the Software. If you encounter any issues please email [contact@repairrabbit.co](mailto:contact@repairrabbit.co) Please Note: Invoices will be available in the PDF format from your dashboard.
+After the Author has successfully received your payment, your Software purchase will become activated and you will be able to install the Software. If you encounter any issues please email [sales@repairrabbit.co](mailto:sales@repairrabbit.co) Please Note: Invoices will be available in the PDF format from your dashboard.
 
 ### Definitions
 
